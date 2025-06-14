@@ -59,10 +59,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZYGA-k-tTk_-PkAt241I-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZYGA-k-tTk_-PkAt241I-5" target="ZYGA-k-tTk_-PkAt241I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZYGA-k-tTk_-PkAt241I-5" value="若s=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="166.25" y="620" width="102.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZYGA-k-tTk_-PkAt241I-10" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZYGA-k-tTk_-PkAt241I-10" value="将(r,s)作为签名" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="158" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
