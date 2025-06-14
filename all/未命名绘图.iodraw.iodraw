@@ -68,6 +68,9 @@
         <mxCell id="ZYGA-k-tTk_-PkAt241I-10" value="将(r,s)作为签名" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="158" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZYGA-k-tTk_-PkAt241I-12" value="z为信息的哈希值&lt;div&gt;n为椭圆曲线的阶数&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="166" width="144" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
