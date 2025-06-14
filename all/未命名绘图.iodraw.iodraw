@@ -74,14 +74,20 @@
         <mxCell id="ZYGA-k-tTk_-PkAt241I-12" value="z为信息的hash值&lt;div&gt;n为椭圆曲线的阶数&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="148" y="-20" width="144" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZYGA-k-tTk_-PkAt241I-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZYGA-k-tTk_-PkAt241I-15" target="ZYGA-k-tTk_-PkAt241I-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZYGA-k-tTk_-PkAt241I-15" value="公钥&lt;img style=&quot;background-color: initial;&quot; src=&quot;file:///C:/Users/Chang/AppData/Local/Temp/ksohtml7800/wps4.jpg&quot; height=&quot;20&quot; width=&quot;16&quot;&gt;，&lt;div&gt;hash值z,&lt;div&gt;签名（r,s）&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYGA-k-tTk_-PkAt241I-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZYGA-k-tTk_-PkAt241I-16" target="ZYGA-k-tTk_-PkAt241I-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZYGA-k-tTk_-PkAt241I-16" value="计算整数&lt;div&gt;&lt;img style=&quot;background-color: initial;&quot; src=&quot;file:///C:/Users/Chang/AppData/Local/Temp/ksohtml7800/wps5.jpg&quot; height=&quot;20&quot; width=&quot;100&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="515" y="80" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZYGA-k-tTk_-PkAt241I-17" value="计算整数&lt;img style=&quot;background-color: initial;&quot; src=&quot;file:///C:/Users/Chang/AppData/Local/Temp/ksohtml7800/wps6.jpg&quot; height=&quot;20&quot; width=&quot;103&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="190" width="130" height="60" as="geometry" />
+          <mxGeometry x="515" y="190" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
