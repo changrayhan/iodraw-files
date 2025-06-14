@@ -43,6 +43,9 @@
         <mxCell id="ZYGA-k-tTk_-PkAt241I-1" value="若r=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="166.25" y="350" width="102.5" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZYGA-k-tTk_-PkAt241I-5" value="若r=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="176.25" y="360" width="102.5" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
