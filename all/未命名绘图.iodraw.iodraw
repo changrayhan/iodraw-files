@@ -115,7 +115,7 @@
         <mxCell id="ZYGA-k-tTk_-PkAt241I-25" value="签名有效" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZYGA-k-tTk_-PkAt241I-28" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZYGA-k-tTk_-PkAt241I-28" value="签名无效" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="775" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
