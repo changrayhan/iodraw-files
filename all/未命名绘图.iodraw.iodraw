@@ -27,12 +27,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="计算数字&lt;img style=&quot;background-color: initial;&quot; src=&quot;file:///C:/Users/Chang/AppData/Local/Temp/ksohtml7800/wps1.jpg&quot; height=&quot;20&quot; width=&quot;77&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="240" width="115" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZYGA-k-tTk_-PkAt241I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZYGA-k-tTk_-PkAt241I-1">
+        <mxCell id="ZYGA-k-tTk_-PkAt241I-3" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZYGA-k-tTk_-PkAt241I-1" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="311.25" y="100" as="targetPoint" />
             <mxPoint x="290" y="390" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="311" y="390" />
+              <mxPoint x="311" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
