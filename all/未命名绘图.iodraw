@@ -29,7 +29,7 @@
           <mxGeometry x="959" y="845" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-9" value="测试" style="whiteSpace=wrap;strokeWidth=2;fontSize=100;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="562" y="1440" width="816" height="200" as="geometry" />
+          <mxGeometry x="290" y="1510" width="816" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-10" value="图像转张量 H×W×C → C×H×W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-217" y="897.5" width="216" height="66" as="geometry" />
