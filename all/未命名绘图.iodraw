@@ -16,8 +16,8 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-2" value="联邦学习数据划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="829" width="305" height="462" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-3" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=default;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-260" y="730" width="303" height="620" as="geometry" />
+        <mxCell id="xS02xPWKijSnItgbuVA3-3" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=default;textShadow=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="710" width="303" height="620" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-4" value="原始图像数据" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=100;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188" y="300" width="1020" height="150" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-9" value="测试" style="whiteSpace=wrap;strokeWidth=2;fontSize=100;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1660" width="816" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-10" value="图像转张量 H×W×C → C×H×W" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-10" value="图像转张量 &#xa;H×W×C → C×H×W" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-217" y="897.5" width="216" height="66" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-11" value="像素归一化 0-255 → 0-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
