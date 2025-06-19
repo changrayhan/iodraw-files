@@ -70,10 +70,10 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-21" value="对抗扰动添加" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1560" y="968" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-22" value="高斯模糊处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-22" value="高斯模糊处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1766" y="968" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-23" value="按比例混合正常/异常样本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-23" value="按比例混合正常/异常样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1207" y="1067" width="244" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-24" value="最终数据随机打乱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
