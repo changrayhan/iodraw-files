@@ -25,7 +25,7 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-5" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-205" y="774.5" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-6" value="联邦学习数据划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-6" value="联邦学习数据划分" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187" y="860" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-7" value="客户端本地处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -46,7 +46,7 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-13" value="数据增强" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-171" y="1249.5" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-14" value="全局数据随机打乱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-14" value="全局数据随机打乱" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188" y="978.5" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-15" value="等量划分给客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
