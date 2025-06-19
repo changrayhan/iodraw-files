@@ -17,7 +17,7 @@
           <mxGeometry x="130" y="829" width="305" height="462" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-3" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=default;textShadow=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-260" y="700" width="303" height="620" as="geometry" />
+          <mxGeometry x="-260.5" y="720" width="303" height="620" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-4" value="原始图像数据" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=100;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188" y="300" width="1020" height="150" as="geometry" />
