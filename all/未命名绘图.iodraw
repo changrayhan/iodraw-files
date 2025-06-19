@@ -31,8 +31,8 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-8" value="异常数据生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1904" y="845" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-9" value="测试" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="834" y="1500" width="125" height="49" as="geometry" />
+        <mxCell id="xS02xPWKijSnItgbuVA3-9" value="测试" style="whiteSpace=wrap;strokeWidth=2;fontSize=100;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="834" y="1500" width="816" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-10" value="图像转张量 H×W×C → C×H×W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-217" y="897.5" width="216" height="66" as="geometry" />
