@@ -11,7 +11,7 @@
           <mxGeometry x="516" y="820" width="1276" height="445" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-2" value="联邦学习数据划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1744" y="242" width="305" height="462" as="geometry" />
+          <mxGeometry x="130" y="811.5" width="305" height="462" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-3" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2068" y="119" width="303" height="586" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="2123" y="144" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-6" value="联邦学习数据划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1792" y="276" width="189" height="49" as="geometry" />
+          <mxGeometry x="178" y="845.5" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-7" value="客户端本地处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="959" y="845" width="173" height="49" as="geometry" />
@@ -47,13 +47,13 @@
           <mxGeometry x="2157" y="631" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-14" value="全局数据随机打乱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1802" y="409" width="188" height="49" as="geometry" />
+          <mxGeometry x="188" y="978.5" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-15" value="等量划分给客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1802" y="532" width="188" height="49" as="geometry" />
+          <mxGeometry x="188" y="1101.5" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-16" value="确保最小数据量 ≥10样本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1779" y="631" width="235" height="49" as="geometry" />
+          <mxGeometry x="165" y="1200.5" width="235" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-17" value="高斯噪声注入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="565" y="968" width="156" height="49" as="geometry" />
@@ -126,7 +126,7 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xS02xPWKijSnItgbuVA3-6" target="xS02xPWKijSnItgbuVA3-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1896" y="359" />
+              <mxPoint x="282" y="928.5" />
             </Array>
           </mxGeometry>
         </mxCell>
