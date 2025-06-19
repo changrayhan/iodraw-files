@@ -17,7 +17,7 @@
           <mxGeometry x="-260" y="749.5" width="303" height="586" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-4" value="原始图像数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-620" y="830" width="157" height="49" as="geometry" />
+          <mxGeometry x="610" y="560" width="1020" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-5" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-205" y="774.5" width="172" height="49" as="geometry" />
@@ -87,11 +87,6 @@
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-27" value="特征标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1925" y="1191" width="141" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xS02xPWKijSnItgbuVA3-4" target="xS02xPWKijSnItgbuVA3-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xS02xPWKijSnItgbuVA3-5" target="xS02xPWKijSnItgbuVA3-10">
           <mxGeometry relative="1" as="geometry">
