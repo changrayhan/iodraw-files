@@ -32,7 +32,7 @@
           <mxGeometry x="1129" y="845" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-9" value="测试" style="whiteSpace=wrap;strokeWidth=2;fontSize=100;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="1510" width="816" height="200" as="geometry" />
+          <mxGeometry x="290" y="1660" width="816" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-10" value="图像转张量 H×W×C → C×H×W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-217" y="897.5" width="216" height="66" as="geometry" />
@@ -237,7 +237,7 @@
           <mxGeometry x="-65" y="1390" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-73" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;异常数据生成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="1390" width="360" height="30" as="geometry" />
+          <mxGeometry x="1140" y="1390" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
