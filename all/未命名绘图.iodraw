@@ -11,7 +11,7 @@
           <mxGeometry x="420" y="733" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-9" value="Trueset&#xa;正常数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1166" width="124" height="66" as="geometry" />
+          <mxGeometry x="30" y="920" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-10" value="Falseset&#xa;待转换数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="832" width="140" height="66" as="geometry" />
@@ -45,12 +45,6 @@
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-20" value="最终数据集&#xa;X_combined, y_combined" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="579" y="1479" width="244" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="GWhw8eZpO6KIhk4IFyST-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="490" y="584.9999999999998" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GWhw8eZpO6KIhk4IFyST-7" target="GWhw8eZpO6KIhk4IFyST-8">
           <mxGeometry relative="1" as="geometry">
