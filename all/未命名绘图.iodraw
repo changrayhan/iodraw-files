@@ -13,13 +13,13 @@
         <mxCell id="GWhw8eZpO6KIhk4IFyST-7" value="采样5000个样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="420" y="520" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-8" value="分割数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-8" value="分割数据集" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="436" y="619" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-9" value="Trueset&#xa;正常数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1000" width="150" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-10" value="Falseset&#xa;待转换数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-10" value="Falseset&#xa;待转换数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="729.5" y="842" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-11" value="异常生成策略" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
