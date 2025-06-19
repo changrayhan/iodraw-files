@@ -33,25 +33,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Na0175Tm_Hx2U0piOMx-11" value="噪声攻击" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-3" target="4Na0175Tm_Hx2U0piOMx-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="378" y="302" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Na0175Tm_Hx2U0piOMx-12" value="缩放攻击" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-3" target="4Na0175Tm_Hx2U0piOMx-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Na0175Tm_Hx2U0piOMx-13" value="符号翻转" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-3" target="4Na0175Tm_Hx2U0piOMx-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="796" y="302" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-4" target="4Na0175Tm_Hx2U0piOMx-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
