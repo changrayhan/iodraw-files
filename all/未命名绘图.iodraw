@@ -49,7 +49,7 @@
         <mxCell id="GWhw8eZpO6KIhk4IFyST-19" value="随机打乱顺序" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="409" y="1500" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-20" value="最终数据集&#xa;X_combined, y_combined" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-20" value="最终数据集&#xa;X_combined, y_combined" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="365" y="1598" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GWhw8eZpO6KIhk4IFyST-7" target="GWhw8eZpO6KIhk4IFyST-8">
