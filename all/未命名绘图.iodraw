@@ -28,10 +28,10 @@
         <mxCell id="GWhw8eZpO6KIhk4IFyST-12" value="增强高斯噪声&#xa;加倍噪声强度" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="194" y="1166" width="157" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-13" value="随机黑白点噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-13" value="随机黑白点噪声" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="401" y="1175" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-14" value="随机区域遮挡&#xa;固定大小" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-14" value="随机区域遮挡&#xa;固定大小" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="623" y="1166" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-15" value="跨类别混合&#xa;α=0.5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
