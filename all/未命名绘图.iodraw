@@ -55,7 +55,7 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-16" value="确保最小数据量 ≥10样本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="1200.5" width="235" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-17" value="高斯噪声注入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-17" value="高斯噪声注入" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="735" y="968" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-18" value="椒盐噪声注入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
