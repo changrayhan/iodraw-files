@@ -47,12 +47,12 @@
           <mxGeometry x="-171" y="1249.5" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-14" value="全局数据随机打乱" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="188" y="978.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="188.5" y="968" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-15" value="等量划分给客户端" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188" y="1101.5" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-16" value="确保最小数据量 ≥10样本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-16" value="确保最小数据量 ≥10样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="1200.5" width="235" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-17" value="高斯噪声注入" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
