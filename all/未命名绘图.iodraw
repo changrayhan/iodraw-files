@@ -34,7 +34,7 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-9" value="测试" style="whiteSpace=wrap;strokeWidth=2;fontSize=100;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1660" width="816" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-10" value="图像转张量 H×W×C → C×H×W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-10" value="图像转张量 H×W×C → C×H×W" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-217" y="897.5" width="216" height="66" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-11" value="像素归一化 0-255 → 0-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
