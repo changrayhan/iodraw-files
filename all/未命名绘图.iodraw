@@ -4,6 +4,83 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-1" value="恶意节点初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229" y="20" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-2" value="随机选择攻击类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="221" y="119" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-3" value="攻击方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="258" y="217" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-4" value="添加高斯噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="403" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-5" value="参数放大1.5-3倍" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="403" width="178" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-6" value="参数取反" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="454" y="403" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-7" value="更新模型参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="236" y="501" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-8" value="返回恶意更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="237" y="600" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-1" target="4Na0175Tm_Hx2U0piOMx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-2" target="4Na0175Tm_Hx2U0piOMx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-11" value="噪声攻击" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-3" target="4Na0175Tm_Hx2U0piOMx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-12" value="缩放攻击" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-3" target="4Na0175Tm_Hx2U0piOMx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-13" value="符号翻转" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-3" target="4Na0175Tm_Hx2U0piOMx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="516" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-4" target="4Na0175Tm_Hx2U0piOMx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-5" target="4Na0175Tm_Hx2U0piOMx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.11;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-6" target="4Na0175Tm_Hx2U0piOMx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="516" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-7" target="4Na0175Tm_Hx2U0piOMx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
