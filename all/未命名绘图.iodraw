@@ -22,10 +22,10 @@
         <mxCell id="GWhw8eZpO6KIhk4IFyST-10" value="Falseset&#xa;待转换数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="729.5" y="842" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-11" value="异常生成策略" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-11" value="异常生成策略" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="727" y="948" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-12" value="增强高斯噪声&#xa;加倍噪声强度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-12" value="增强高斯噪声&#xa;加倍噪声强度" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="194" y="1166" width="157" height="66" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-13" value="随机黑白点噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
