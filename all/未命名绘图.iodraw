@@ -14,7 +14,7 @@
           <mxGeometry x="130" y="811.5" width="305" height="462" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-3" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-260" y="749.5" width="303" height="586" as="geometry" />
+          <mxGeometry x="-260" y="730" width="303" height="586" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-4" value="原始图像数据" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=100;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="490" width="1020" height="150" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="-217" y="897.5" width="216" height="66" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-11" value="像素归一化 0-255 → 0-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-225" y="1067" width="233" height="49" as="geometry" />
+          <mxGeometry x="-225" y="1052.5" width="233" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-12" value="数据集特定标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-203" y="1162.5" width="189" height="49" as="geometry" />
