@@ -7,7 +7,7 @@
         <mxCell id="4Na0175Tm_Hx2U0piOMx-1" value="恶意节点初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-50" y="250" width="170" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4Na0175Tm_Hx2U0piOMx-2" value="随机选择攻击类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-2" value="随机选择攻击类型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-50" y="339" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-3" value="攻击方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
