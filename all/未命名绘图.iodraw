@@ -41,10 +41,10 @@
           <mxGeometry x="630" y="1282" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-19" value="随机打乱顺序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="623" y="1381" width="156" height="49" as="geometry" />
+          <mxGeometry x="623" y="1490" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-20" value="最终数据集&#xa;X_combined, y_combined" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="579" y="1479" width="244" height="66" as="geometry" />
+          <mxGeometry x="579" y="1588" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="GWhw8eZpO6KIhk4IFyST-7" target="GWhw8eZpO6KIhk4IFyST-8">
           <mxGeometry relative="1" as="geometry">
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-60" y="1120" />
-              <mxPoint x="10" y="1301" />
+              <mxPoint x="-40" y="1330" />
               <mxPoint x="40" y="1450" />
             </Array>
           </mxGeometry>
