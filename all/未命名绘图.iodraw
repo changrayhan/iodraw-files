@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3053" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3880" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -14,13 +14,13 @@
           <mxGeometry x="130" y="811.5" width="305" height="462" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-3" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2068" y="119" width="303" height="586" as="geometry" />
+          <mxGeometry x="-260" y="749.5" width="303" height="586" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-4" value="原始图像数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="228" y="110" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-5" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2123" y="144" width="172" height="49" as="geometry" />
+          <mxGeometry x="-205" y="774.5" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-6" value="联邦学习数据划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="178" y="845.5" width="189" height="49" as="geometry" />
@@ -35,16 +35,16 @@
           <mxGeometry x="2240" y="845" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-10" value="图像转张量 H×W×C → C×H×W" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2111" y="267" width="216" height="66" as="geometry" />
+          <mxGeometry x="-217" y="897.5" width="216" height="66" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-11" value="像素归一化 0-255 → 0-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2103" y="409" width="233" height="49" as="geometry" />
+          <mxGeometry x="-225" y="1039.5" width="233" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-12" value="数据集特定标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2125" y="532" width="189" height="49" as="geometry" />
+          <mxGeometry x="-203" y="1162.5" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-13" value="数据增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2157" y="631" width="125" height="49" as="geometry" />
+          <mxGeometry x="-171" y="1261.5" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-14" value="全局数据随机打乱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188" y="978.5" width="188" height="49" as="geometry" />
@@ -104,7 +104,7 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xS02xPWKijSnItgbuVA3-5" target="xS02xPWKijSnItgbuVA3-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2219" y="217" />
+              <mxPoint x="-109" y="847.5" />
             </Array>
           </mxGeometry>
         </mxCell>
