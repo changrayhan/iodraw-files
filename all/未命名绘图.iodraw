@@ -28,7 +28,7 @@
         <mxCell id="4Na0175Tm_Hx2U0piOMx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Na0175Tm_Hx2U0piOMx-3" target="4Na0175Tm_Hx2U0piOMx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Na0175Tm_Hx2U0piOMx-3" value="攻击方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-3" value="攻击方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-4" value="添加高斯噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="4Na0175Tm_Hx2U0piOMx-5" value="参数放大1.5-3倍" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="292" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4Na0175Tm_Hx2U0piOMx-6" value="参数取反" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-6" value="参数取反" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-7" value="更新模型参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
