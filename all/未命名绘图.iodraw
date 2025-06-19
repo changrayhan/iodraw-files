@@ -34,10 +34,10 @@
         <mxCell id="GWhw8eZpO6KIhk4IFyST-14" value="随机区域遮挡&#xa;固定大小" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="623" y="1166" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-15" value="跨类别混合&#xa;α=0.5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-15" value="跨类别混合&#xa;α=0.5" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="829" y="1166" width="141" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="GWhw8eZpO6KIhk4IFyST-16" value="归一化随机扰动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GWhw8eZpO6KIhk4IFyST-16" value="归一化随机扰动" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1019" y="1175" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GWhw8eZpO6KIhk4IFyST-17" value="高斯模糊&#xa;σ=2.0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
