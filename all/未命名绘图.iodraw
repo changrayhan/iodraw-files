@@ -32,13 +32,13 @@
           <mxGeometry x="210" y="260" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-4" value="添加高斯噪声" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="380" width="130" height="49" as="geometry" />
+          <mxGeometry x="410" y="380" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-5" value="参数放大1.5-3倍" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="414" y="292" width="126" height="49" as="geometry" />
+          <mxGeometry x="414" y="292" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-6" value="参数取反" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="414" y="200" width="125" height="49" as="geometry" />
+          <mxGeometry x="414" y="200" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-7" value="更新模型参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="242.5" width="157" height="49" as="geometry" />
