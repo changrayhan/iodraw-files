@@ -40,11 +40,11 @@
         <mxCell id="xS02xPWKijSnItgbuVA3-11" value="像素归一化 0-255 → 0-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-225" y="1052.5" width="233" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-12" value="数据集特定标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xS02xPWKijSnItgbuVA3-12" value="数据集特定标准化" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-203" y="1162.5" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xS02xPWKijSnItgbuVA3-13" value="数据增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-171" y="1261.5" width="125" height="49" as="geometry" />
+        <mxCell id="xS02xPWKijSnItgbuVA3-13" value="数据增强" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-171" y="1249.5" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-14" value="全局数据随机打乱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188" y="978.5" width="188" height="49" as="geometry" />
