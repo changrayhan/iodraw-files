@@ -17,7 +17,7 @@
           <mxGeometry x="380" y="500" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-5" value="参数放大1.5-3倍" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="292" width="178" height="49" as="geometry" />
+          <mxGeometry x="414" y="299" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4Na0175Tm_Hx2U0piOMx-6" value="参数取反" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="125" height="49" as="geometry" />
@@ -44,6 +44,16 @@
             <mxPoint x="410" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="323" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Na0175Tm_Hx2U0piOMx-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="350" as="sourcePoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="350" />
+              <mxPoint x="480" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
