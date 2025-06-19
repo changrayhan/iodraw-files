@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1990" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3269" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="700" y="820" width="1262" height="445" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-2" value="联邦学习数据划分" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="829" width="305" height="462" as="geometry" />
+          <mxGeometry x="130" y="820" width="305" height="462" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-3" value="基础图像预处理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=default;textShadow=0;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-260.5" y="720" width="303" height="620" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="188.5" y="968" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-15" value="等量划分给客户端" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="188" y="1101.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="188.5" y="1090" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xS02xPWKijSnItgbuVA3-16" value="确保最小数据量 ≥10样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="1200.5" width="235" height="49" as="geometry" />
