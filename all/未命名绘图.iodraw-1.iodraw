@@ -24,28 +24,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-5" value="固定参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="147" y="403" width="125" height="49" as="geometry" />
+          <mxGeometry x="147" y="230" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-6" value="UMAP降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="42" y="501" width="132" height="49" as="geometry" />
+          <mxGeometry x="42" y="328" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-7" value="OCSVM检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="600" width="141" height="49" as="geometry" />
+          <mxGeometry x="38" y="427" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-8" value="结果评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="46" y="699" width="124" height="49" as="geometry" />
+          <mxGeometry x="46" y="526" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-9" value="保存结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="46" y="797" width="125" height="49" as="geometry" />
+          <mxGeometry x="46" y="624" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-10" value="直接OCSVM检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="228" y="501" width="173" height="49" as="geometry" />
+          <mxGeometry x="228" y="328" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-11" value="结果评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="252" y="600" width="124" height="49" as="geometry" />
+          <mxGeometry x="252" y="427" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-12" value="对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="252" y="699" width="124" height="49" as="geometry" />
+          <mxGeometry x="252" y="526" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="80aTi3IlpXoonsCC9Ord-1" target="80aTi3IlpXoonsCC9Ord-2">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +55,7 @@
         <mxCell id="80aTi3IlpXoonsCC9Ord-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="80aTi3IlpXoonsCC9Ord-5" target="80aTi3IlpXoonsCC9Ord-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="480" />
+              <mxPoint x="110" y="307" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,7 +77,7 @@
         <mxCell id="80aTi3IlpXoonsCC9Ord-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="80aTi3IlpXoonsCC9Ord-5" target="80aTi3IlpXoonsCC9Ord-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="314" y="476" />
+              <mxPoint x="314" y="303" />
             </Array>
           </mxGeometry>
         </mxCell>
