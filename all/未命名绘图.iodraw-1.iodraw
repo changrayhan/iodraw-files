@@ -14,7 +14,7 @@
           <mxGeometry x="153" y="217" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-5" value="固定参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="242" y="403" width="125" height="49" as="geometry" />
+          <mxGeometry x="147" y="403" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-6" value="UMAP降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="42" y="501" width="132" height="49" as="geometry" />
@@ -52,14 +52,6 @@
             <Array as="points">
               <mxPoint x="304" y="366" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="80aTi3IlpXoonsCC9Ord-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.46;entryY=0.01;rounded=0;" edge="1" parent="1" target="80aTi3IlpXoonsCC9Ord-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="98" y="476" />
-            </Array>
-            <mxPoint x="98" y="452" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="80aTi3IlpXoonsCC9Ord-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=0.99;entryX=0.86;entryY=0.01;rounded=0;" edge="1" parent="1" source="80aTi3IlpXoonsCC9Ord-5" target="80aTi3IlpXoonsCC9Ord-6">
