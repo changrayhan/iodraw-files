@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="cNDDiOXiV0z09lh6KE11">
-    <mxGraphModel dx="2035" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,15 +63,6 @@
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-21" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="516" y="1880" width="173" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-22" value="限制组合数" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="538" y="1983" width="129" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-23" value="最多40个组合&#xa;随机采样" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="421" y="2185" width="157" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-24" value="最多20个组合&#xa;随机采样" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="628" y="2185" width="157" height="66" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-25" value="运行实验循环" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="525" y="2302" width="156" height="49" as="geometry" />
@@ -268,37 +259,26 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="aeDCXsFyPXphlQHstoev-21" target="aeDCXsFyPXphlQHstoev-22" edge="1">
+        <mxCell id="aeDCXsFyPXphlQHstoev-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="aeDCXsFyPXphlQHstoev-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="602.5" y="1983" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-75" value="UMAP" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="aeDCXsFyPXphlQHstoev-22" target="aeDCXsFyPXphlQHstoev-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="499" y="2149" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-76" value="OCSVM" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="aeDCXsFyPXphlQHstoev-22" target="aeDCXsFyPXphlQHstoev-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="706" y="2149" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.17;entryY=-0.01;rounded=0;" parent="1" source="aeDCXsFyPXphlQHstoev-23" target="aeDCXsFyPXphlQHstoev-25" edge="1">
+        <mxCell id="aeDCXsFyPXphlQHstoev-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.17;entryY=-0.01;rounded=0;" parent="1" target="aeDCXsFyPXphlQHstoev-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="499" y="2277" />
             </Array>
+            <mxPoint x="499.5" y="2251" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.83;entryY=-0.01;rounded=0;" parent="1" source="aeDCXsFyPXphlQHstoev-24" target="aeDCXsFyPXphlQHstoev-25" edge="1">
+        <mxCell id="aeDCXsFyPXphlQHstoev-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.83;entryY=-0.01;rounded=0;" parent="1" target="aeDCXsFyPXphlQHstoev-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="706" y="2277" />
             </Array>
+            <mxPoint x="706.5" y="2251" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="aeDCXsFyPXphlQHstoev-25" target="aeDCXsFyPXphlQHstoev-26" edge="1">
