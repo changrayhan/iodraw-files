@@ -216,8 +216,11 @@
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-3" value="试验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="564" y="3318" width="87" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-9" value="执行UMAP降维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="543" y="2470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="2620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
