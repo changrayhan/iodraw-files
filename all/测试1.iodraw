@@ -277,7 +277,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-48" value="开始实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-48" value="开始实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="616" y="250" width="730" height="80" as="geometry" />
         </mxCell>
       </root>
