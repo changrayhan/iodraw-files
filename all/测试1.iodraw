@@ -240,17 +240,11 @@
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-16" value="计算准确率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="519.5" y="2750" width="173" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-23" value="/" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a3Kl6w1wa4OzZ_TtdwUN-18" target="a3Kl6w1wa4OzZ_TtdwUN-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="713" y="2963" />
-              <mxPoint x="713" y="2540" />
-              <mxPoint x="693" y="2540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-18" value="是否还有参数组合？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="528" y="2890" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-24" value="计算准确率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="852" y="2860" width="173" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
