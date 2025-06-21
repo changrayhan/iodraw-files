@@ -38,7 +38,7 @@
           <mxGeometry x="654" y="1234" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-41" value="更新客户端状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1413" width="172" height="49" as="geometry" />
+          <mxGeometry x="630" y="1380" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-42" value="降低信任值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="382" y="1079" width="140" height="49" as="geometry" />
@@ -149,6 +149,9 @@
               <mxPoint x="716" y="1487" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5qKwcg2el8xx4qIStcMq-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
