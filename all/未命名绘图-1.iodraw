@@ -7,6 +7,9 @@
         <mxCell id="aeDCXsFyPXphlQHstoev-1" value="开始实验" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="563" y="20" width="88" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="aeDCXsFyPXphlQHstoev-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-3" target="aeDCXsFyPXphlQHstoev-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-3" value="创建默认配置文件&#xa;- 数据集: MNIST&#xa;- false_ratio: 0.05&#xa;- noise_level: 0.3&#xa;- 异常类型: 多种" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="523" y="360" width="188" height="90" as="geometry" />
         </mxCell>
@@ -146,13 +149,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="607" y="104" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-3" target="aeDCXsFyPXphlQHstoev-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="474" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-4" target="aeDCXsFyPXphlQHstoev-5">
