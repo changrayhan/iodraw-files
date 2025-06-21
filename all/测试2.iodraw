@@ -10,7 +10,7 @@
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1373" y="927" width="620" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-42" value="消融实验对比" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="LXdGx_rUv5jozxzTsOZ8-42" value="消融实验对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1573" y="1060" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-43" value="测试1: UMAP+OCSVM&#xa;固定参数运行" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
