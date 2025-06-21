@@ -238,7 +238,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHtmgB3ni8IPjdeyjnpg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a3Kl6w1wa4OzZ_TtdwUN-18" target="a3Kl6w1wa4OzZ_TtdwUN-45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1562" y="1760" />
+              <mxPoint x="1002" y="1760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-18" value="是否还有参数组合？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1447" y="1411.5" width="230" height="145" as="geometry" />
@@ -282,6 +287,9 @@
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-48" value="开始实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="616" y="250" width="730" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dHtmgB3ni8IPjdeyjnpg-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1527" y="1571" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
