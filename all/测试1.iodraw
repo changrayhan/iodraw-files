@@ -222,7 +222,7 @@
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-14" value="执行UMAP降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="2440" width="173" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-15" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-15" value="执行OCSVM异常检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520.5" y="2590" width="173" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-16" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
