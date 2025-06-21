@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kA0fn1jtsSiUAm7cBry2">
-    <mxGraphModel dx="2862" dy="1372" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4316" dy="2351" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="1610" y="1060" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-43" value="测试1: UMAP+OCSVM&#xa;固定参数运行" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1260" width="230" height="66" as="geometry" />
+          <mxGeometry x="1400" y="1260" width="230" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-44" value="测试2: 直接OCSVM&#xa;不使用UMAP降维" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1770" y="1260" width="193" height="66" as="geometry" />
@@ -246,9 +246,10 @@
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-55" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;参数空间设置&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1539.5" y="510" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UzzO5sEkcrBqQAZM9ub3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-4" target="UzzO5sEkcrBqQAZM9ub3-62">
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXdGx_rUv5jozxzTsOZ8-45" target="UzzO5sEkcrBqQAZM9ub3-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1680" y="1509" />
               <mxPoint x="1680" y="1760" />
               <mxPoint x="1245" y="1760" />
               <mxPoint x="1245" y="1840" />
