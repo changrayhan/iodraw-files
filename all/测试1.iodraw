@@ -64,7 +64,7 @@
           <mxGeometry x="438" y="1543" width="310" height="84" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-20" value="UMAP参数网格&#xa;- n_neighbors: 5,15,30,50,100,200&#xa;- n_components: 1,2,3,5&#xa;- min_dist: 0,0.1,0.3,0.5,0.99&#xa;- metric: 3种" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1801" y="553" width="164" height="110" as="geometry" />
+          <mxGeometry x="1720" y="550" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-21" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1733.25" y="710" width="299.5" height="110" as="geometry" />
