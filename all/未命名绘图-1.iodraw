@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-3" value="创建默认配置文件&#xa;- 数据集: MNIST&#xa;- false_ratio: 0.05&#xa;- noise_level: 0.3&#xa;- 异常类型: 多种" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="523" y="360" width="188" height="90" as="geometry" />
+          <mxGeometry x="512" y="350" width="188" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-4" value="加载配置文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="528" y="499" width="157" height="49" as="geometry" />
