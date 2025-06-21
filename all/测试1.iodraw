@@ -216,8 +216,14 @@
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-3" value="试验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="557" y="3178" width="87" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a3Kl6w1wa4OzZ_TtdwUN-12" target="a3Kl6w1wa4OzZ_TtdwUN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-12" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="521.5" y="2333" width="173" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a3Kl6w1wa4OzZ_TtdwUN-14" target="a3Kl6w1wa4OzZ_TtdwUN-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-14" value="执行UMAP降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="2450" width="173" height="80" as="geometry" />
