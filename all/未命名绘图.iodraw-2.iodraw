@@ -42,10 +42,10 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-8" value="训练高斯过程" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="531" y="289" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-9" value="使用UCB选择下一参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-9" value="使用UCB选择下一参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="500" y="388" width="218" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-10" value="评估新参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-10" value="评估新参数组合" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="523" y="486" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-11" value="更新样本集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
