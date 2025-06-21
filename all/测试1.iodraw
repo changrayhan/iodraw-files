@@ -67,7 +67,7 @@
           <mxGeometry x="1801" y="553" width="164" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-21" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1796.5" y="710" width="173" height="80" as="geometry" />
+          <mxGeometry x="1733.25" y="710" width="299.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-25" value="运行实验循环" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1440" y="990" width="156" height="49" as="geometry" />
