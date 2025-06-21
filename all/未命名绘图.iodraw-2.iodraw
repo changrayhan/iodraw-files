@@ -1,0 +1,126 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="jxE9FEkXt31Q2ZqnBBCZ">
+    <mxGraphModel dx="365" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oXA0BZ2NecKwn816zpT9-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="249" y="20" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-2" value="加载5%训练数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="208" y="119" width="175" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-3" value="训练基准模型&#xa;5轮训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="217" y="217" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-4" value="初始化贝叶斯优化&#xa;高斯过程GP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="201" y="334" width="189" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-5" value="随机采样5个参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="189" y="450" width="212" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-6" value="评估每个参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="201" y="549" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-7" value="迭代完成?&#xa;n=5" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="227" y="647" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-8" value="训练高斯过程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="51" y="856" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-9" value="使用UCB选择下一参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="955" width="218" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-10" value="评估新参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1053" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-11" value="更新样本集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1152" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-12" value="返回最优参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="257" y="856" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-13" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="289" y="955" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-14" value="B,C,D,E,F,H,I,J,K,L" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="391" y="20" width="196" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-1" target="oXA0BZ2NecKwn816zpT9-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-2" target="oXA0BZ2NecKwn816zpT9-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-3" target="oXA0BZ2NecKwn816zpT9-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-4" target="oXA0BZ2NecKwn816zpT9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-5" target="oXA0BZ2NecKwn816zpT9-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-6" target="oXA0BZ2NecKwn816zpT9-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-21" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-7" target="oXA0BZ2NecKwn816zpT9-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-8" target="oXA0BZ2NecKwn816zpT9-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-9" target="oXA0BZ2NecKwn816zpT9-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-10" target="oXA0BZ2NecKwn816zpT9-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="1127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.17;entryX=1;entryY=0.84;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-11" target="oXA0BZ2NecKwn816zpT9-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="1127" />
+              <mxPoint x="449" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-7" target="oXA0BZ2NecKwn816zpT9-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-12" target="oXA0BZ2NecKwn816zpT9-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
