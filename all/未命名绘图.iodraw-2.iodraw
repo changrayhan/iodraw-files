@@ -23,25 +23,25 @@
           <mxGeometry x="201" y="549" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-7" value="迭代完成?&#xa;n=5" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="227" y="647" width="136" height="136" as="geometry" />
+          <mxGeometry x="697" y="160" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-8" value="训练高斯过程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="51" y="856" width="156" height="49" as="geometry" />
+          <mxGeometry x="521" y="369" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-9" value="使用UCB选择下一参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="955" width="218" height="49" as="geometry" />
+          <mxGeometry x="490" y="468" width="218" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-10" value="评估新参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="43" y="1053" width="172" height="49" as="geometry" />
+          <mxGeometry x="513" y="566" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-11" value="更新样本集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162" y="1152" width="141" height="49" as="geometry" />
+          <mxGeometry x="632" y="665" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-12" value="返回最优参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="257" y="856" width="157" height="49" as="geometry" />
+          <mxGeometry x="727" y="369" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-13" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289" y="955" width="92" height="49" as="geometry" />
+          <mxGeometry x="759" y="468" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-1" target="oXA0BZ2NecKwn816zpT9-2">
           <mxGeometry relative="1" as="geometry">
@@ -76,7 +76,7 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-21" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-7" target="oXA0BZ2NecKwn816zpT9-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="129" y="820" />
+              <mxPoint x="599" y="333" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -93,22 +93,22 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-10" target="oXA0BZ2NecKwn816zpT9-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="129" y="1127" />
+              <mxPoint x="599" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.17;entryX=1;entryY=0.84;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-11" target="oXA0BZ2NecKwn816zpT9-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="449" y="1127" />
-              <mxPoint x="449" y="820" />
+              <mxPoint x="919" y="640" />
+              <mxPoint x="919" y="333" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-7" target="oXA0BZ2NecKwn816zpT9-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="820" />
+              <mxPoint x="805" y="333" />
             </Array>
           </mxGeometry>
         </mxCell>
