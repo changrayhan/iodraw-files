@@ -94,6 +94,9 @@
         <mxCell id="aeDCXsFyPXphlQHstoev-33" value="还有UMAP参数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="523" y="3273" width="159" height="159" as="geometry" />
         </mxCell>
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-47" target="a3Kl6w1wa4OzZ_TtdwUN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-47" value="汇总结果" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="559" y="3507" width="87" height="34" as="geometry" />
         </mxCell>
@@ -293,7 +296,7 @@
             <mxPoint x="602.5000000000005" y="3504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-3" value="汇总结果" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-3" value="试验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="559" y="3590" width="87" height="34" as="geometry" />
         </mxCell>
       </root>
