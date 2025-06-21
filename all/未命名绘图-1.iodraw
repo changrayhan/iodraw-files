@@ -8,16 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-1" value="开始实验" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="563" y="280" width="88" height="34" as="geometry" />
+          <mxGeometry x="564" y="400" width="88" height="34" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-3" target="aeDCXsFyPXphlQHstoev-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-3" value="创建默认配置文件&#xa;- 数据集: MNIST&#xa;- false_ratio: 0.05&#xa;- noise_level: 0.3&#xa;- 异常类型: 多种" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="512" y="360" width="188" height="90" as="geometry" />
+          <mxGeometry x="513" y="480" width="188" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-4" value="加载配置文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="528" y="499" width="157" height="49" as="geometry" />
+          <mxGeometry x="529" y="619" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-6" value="加载数据集&#xa;- MNIST: 28×28&#xa;- CIFAR-10: 32×32×3&#xa;- 限制样本数: 5000" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="536" y="732" width="141" height="68" as="geometry" />
@@ -145,16 +145,10 @@
         <mxCell id="aeDCXsFyPXphlQHstoev-47" value="实验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="563" y="4614" width="87" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-4">
+        <mxCell id="aeDCXsFyPXphlQHstoev-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="606.5" y="598" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="aeDCXsFyPXphlQHstoev-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="606.5" y="682" as="sourcePoint" />
+            <mxPoint x="607" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-6" target="aeDCXsFyPXphlQHstoev-7">
