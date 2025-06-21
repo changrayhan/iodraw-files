@@ -11,10 +11,10 @@
           <mxGeometry x="1373" y="927" width="620" height="700" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-42" value="消融实验对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1573" y="1060" width="156" height="49" as="geometry" />
+          <mxGeometry x="1600" y="1080" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-43" value="测试1: UMAP+OCSVM&#xa;固定参数运行" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="1260" width="230" height="66" as="geometry" />
+          <mxGeometry x="1390" y="1260" width="230" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-44" value="测试2: 直接OCSVM&#xa;不使用UMAP降维" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1770" y="1260" width="193" height="66" as="geometry" />
@@ -50,7 +50,7 @@
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.86;entryY=-0.01;rounded=0;" parent="1" source="LXdGx_rUv5jozxzTsOZ8-44" target="LXdGx_rUv5jozxzTsOZ8-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1776" y="1250" />
+              <mxPoint x="1820" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
