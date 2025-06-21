@@ -256,7 +256,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-45" value="汇总结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1484.5" y="1860" width="173" height="80" as="geometry" />
+          <mxGeometry x="-60" y="1860" width="1717.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
