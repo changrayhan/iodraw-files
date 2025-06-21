@@ -13,7 +13,7 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="60" width="300" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-2" value="加载5%数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-2" value="加载5%数据集" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="208" y="119" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-3" value="训练基准模型&#xa;5轮训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -124,7 +124,7 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-33" target="oXA0BZ2NecKwn816zpT9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-33" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="310" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
