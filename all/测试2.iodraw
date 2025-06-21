@@ -300,6 +300,58 @@
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-64" value="开始实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="616" y="250" width="730" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-65" value="消融实验对比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="599" y="4212" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-66" value="测试1: UMAP+OCSVM&#xa;固定参数运行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="446" y="4310" width="210" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-67" value="测试2: 直接OCSVM&#xa;不使用UMAP降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="706" y="4310" width="193" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-69" target="UzzO5sEkcrBqQAZM9ub3-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-69" value="对比检测精确率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="591" y="4427" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-70" value="实验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="633" y="4624" width="87" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="UzzO5sEkcrBqQAZM9ub3-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="676.9999999999998" y="4162.000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-65" target="UzzO5sEkcrBqQAZM9ub3-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="551" y="4285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-65" target="UzzO5sEkcrBqQAZM9ub3-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="802" y="4285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.14;entryY=-0.01;rounded=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-66" target="UzzO5sEkcrBqQAZM9ub3-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="551" y="4402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.86;entryY=-0.01;rounded=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-67" target="UzzO5sEkcrBqQAZM9ub3-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="802" y="4402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
