@@ -24,7 +24,7 @@
         <mxCell id="aeDCXsFyPXphlQHstoev-3" value="创建默认配置文件&#xa;- 数据集: MNIST&#xa;- false_ratio: 0.05&#xa;- noise_level: 0.3&#xa;- 异常类型: 多种" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="160" y="470" width="890" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-4" value="加载配置文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="aeDCXsFyPXphlQHstoev-4" value="加载配置文件" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="518.5" y="620" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-6" value="加载数据集&#xa;- MNIST: 28×28&#xa;- CIFAR-10: 32×32×3&#xa;- 限制样本数: 5000" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
