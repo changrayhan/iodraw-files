@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="1680" width="1400" height="330" as="geometry" />
-        </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-100" y="470" width="1410" height="1200" as="geometry" />
         </mxCell>
@@ -62,16 +59,16 @@
           <mxGeometry x="475" y="1553" width="255" height="84" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-19" value="开始参数搜索" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="525" y="1687" width="156" height="49" as="geometry" />
+          <mxGeometry x="1279" y="2060" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-20" value="UMAP参数网格&#xa;- n_neighbors: 5,15,30,50,100,200&#xa;- n_components: 1,2,3,5&#xa;- min_dist: 0,0.1,0.3,0.5,0.99&#xa;- metric: 3种" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="521" y="1750" width="164" height="110" as="geometry" />
+          <mxGeometry x="1275" y="2123" width="164" height="110" as="geometry" />
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-21" target="aeDCXsFyPXphlQHstoev-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-21" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="516" y="1880" width="173" height="80" as="geometry" />
+          <mxGeometry x="1270" y="2253" width="173" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-25" value="运行实验循环" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="530" y="2040" width="156" height="49" as="geometry" />
