@@ -247,8 +247,8 @@
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-24" value="更新参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="2923" width="173" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="2160" width="60" height="30" as="geometry" />
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-28" value="参数空间设置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="2160" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
