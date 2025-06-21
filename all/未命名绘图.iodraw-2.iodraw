@@ -8,7 +8,7 @@
           <mxGeometry x="980" y="60" width="150" height="650" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="490" y="60" width="470" height="650" as="geometry" />
+          <mxGeometry x="480" y="60" width="480" height="650" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="60" width="300" height="650" as="geometry" />
@@ -57,7 +57,7 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-12" value="返回最优参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="803" y="334" width="127" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-13" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-13" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1010" y="334" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-2" target="oXA0BZ2NecKwn816zpT9-3">
