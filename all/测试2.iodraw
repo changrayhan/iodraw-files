@@ -8,7 +8,7 @@
           <mxGeometry x="1327" y="420" width="783" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1373" y="927" width="620" height="700" as="geometry" />
+          <mxGeometry x="1373" y="970" width="620" height="657" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-42" value="消融实验对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1610" y="1060" width="156" height="49" as="geometry" />
@@ -285,7 +285,7 @@
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-64" value="开始实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="616" y="250" width="730" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UzzO5sEkcrBqQAZM9ub3-81" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;参数空间设置&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-81" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;消融实验&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1530" y="1580" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
