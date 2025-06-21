@@ -112,10 +112,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="59" width="180" height="591" as="geometry" />
+          <mxGeometry x="-80" y="60" width="180" height="591" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="oXA0BZ2NecKwn816zpT9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-33" target="oXA0BZ2NecKwn816zpT9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-33" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="310" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
