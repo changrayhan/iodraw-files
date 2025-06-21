@@ -25,6 +25,14 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-5" value="随机采样5个参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="189" y="450" width="212" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="oXA0BZ2NecKwn816zpT9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-6" target="oXA0BZ2NecKwn816zpT9-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="574" />
+              <mxPoint x="470" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-6" value="评估每个参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="201" y="549" width="188" height="49" as="geometry" />
         </mxCell>
@@ -111,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="60" width="180" height="591" as="geometry" />
+          <mxGeometry x="-50" y="60" width="170" height="591" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-33" target="oXA0BZ2NecKwn816zpT9-2">
           <mxGeometry relative="1" as="geometry" />
