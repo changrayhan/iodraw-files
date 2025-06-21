@@ -11,7 +11,7 @@
           <mxGeometry x="1373" y="927" width="620" height="700" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-42" value="消融实验对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="1060" width="156" height="49" as="geometry" />
+          <mxGeometry x="1610" y="1060" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-43" value="测试1: UMAP+OCSVM&#xa;固定参数运行" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1390" y="1260" width="230" height="66" as="geometry" />
@@ -116,8 +116,11 @@
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-23" value="UMAP参数网格&#xa;- n_neighbors: 5,15,30,50,100,200&#xa;- n_components: 1,2,3,5&#xa;- min_dist: 0,0.1,0.3,0.5,0.99&#xa;- metric: 3种" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1527" y="570" width="325" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-25" target="LXdGx_rUv5jozxzTsOZ8-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-25" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1540.25" y="730" width="299.5" height="120" as="geometry" />
+          <mxGeometry x="1540.25" y="730" width="299.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-9" target="UzzO5sEkcrBqQAZM9ub3-10">
           <mxGeometry relative="1" as="geometry">
