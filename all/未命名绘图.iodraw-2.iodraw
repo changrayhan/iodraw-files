@@ -47,7 +47,7 @@
           <mxGeometry x="370" y="1177" width="163" height="163" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-44" value="加入黑名单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="439" y="1413" width="141" height="49" as="geometry" />
+          <mxGeometry x="439" y="1380" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-45" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="1600" width="92" height="49" as="geometry" />
