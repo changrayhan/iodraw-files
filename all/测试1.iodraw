@@ -65,7 +65,12 @@
           <mxGeometry x="482" y="1427" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aeDCXsFyPXphlQHstoev-18" target="aeDCXsFyPXphlQHstoev-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="1585" />
+              <mxPoint x="1310" y="635" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-18" value="保存生成数据&#xa;generated_data_时间戳.xlsx" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="438" y="1543" width="310" height="84" as="geometry" />
