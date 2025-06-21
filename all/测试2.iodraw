@@ -16,7 +16,7 @@
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-43" value="测试1: UMAP+OCSVM&#xa;固定参数运行" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1400" y="1158" width="230" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-44" value="测试2: 直接OCSVM&#xa;不使用UMAP降维" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="LXdGx_rUv5jozxzTsOZ8-44" value="测试2: 直接OCSVM&#xa;不使用UMAP降维" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1680" y="1158" width="193" height="66" as="geometry" />
         </mxCell>
         <mxCell id="dzumXNxkBvapbkbrFjw5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LXdGx_rUv5jozxzTsOZ8-45" target="LXdGx_rUv5jozxzTsOZ8-47" edge="1">
