@@ -40,7 +40,7 @@
         <mxCell id="5qKwcg2el8xx4qIStcMq-39" value="检查黑名单" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="630" y="877" width="129" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-40" value="接受更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5qKwcg2el8xx4qIStcMq-40" value="接受更新" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="654" y="1234" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-41" value="更新客户端状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="5qKwcg2el8xx4qIStcMq-42" value="降低信任值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="382" y="1079" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-43" value="信任值 &lt; 0.3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5qKwcg2el8xx4qIStcMq-43" value="信任值 &lt; 0.3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="370" y="1177" width="163" height="163" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-44" value="加入黑名单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
