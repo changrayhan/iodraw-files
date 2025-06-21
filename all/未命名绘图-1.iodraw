@@ -92,7 +92,7 @@
           <mxGeometry x="379" y="2714" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-30" value="评估结果&#xa;- 检测精确率&#xa;- Precision/Recall/F1&#xa;- 混淆矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="403" y="2835" width="125" height="49" as="geometry" />
+          <mxGeometry x="403" y="2835" width="125" height="65" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-31" value="保存单次实验结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="371" y="2934" width="189" height="49" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="524" y="3504" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-35" value="保存到Excel&#xa;result_ocsvm_optimized.xlsx&#xa;- 所有结果&#xa;- Top10结果&#xa;- 检测精确率Top10&#xa;- 汇总统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="473" y="3580" width="259" height="107" as="geometry" />
+          <mxGeometry x="473" y="3580" width="259" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-36" value="找出最佳参数组合&#xa;基于F1分数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="509" y="3737" width="188" height="66" as="geometry" />
