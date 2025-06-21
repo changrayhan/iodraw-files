@@ -261,7 +261,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-45" value="汇总结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1850" width="730" height="80" as="geometry" />
+          <mxGeometry x="832" y="1850" width="730" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-48" value="汇总结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="730" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
