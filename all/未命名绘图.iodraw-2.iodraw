@@ -28,10 +28,10 @@
         <mxCell id="5qKwcg2el8xx4qIStcMq-35" value="使用私钥签名哈希" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="1254" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-36" value="提交更新和签名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5qKwcg2el8xx4qIStcMq-36" value="提交更新和签名" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="98" y="1352" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-37" value="验证签名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5qKwcg2el8xx4qIStcMq-37" value="验证签名" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="500" y="750" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-38" value="拒绝更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
