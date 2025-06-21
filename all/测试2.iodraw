@@ -19,11 +19,6 @@
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-44" value="测试2: 直接OCSVM&#xa;不使用UMAP降维" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1680" y="1158" width="193" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="dzumXNxkBvapbkbrFjw5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LXdGx_rUv5jozxzTsOZ8-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1650.5" y="1472" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-45" value="对比检测精确率" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1565" y="1275" width="172" height="49" as="geometry" />
         </mxCell>
@@ -253,20 +248,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UzzO5sEkcrBqQAZM9ub3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1562" y="1556.5" as="sourcePoint" />
-            <mxPoint x="1565" y="1592.7499999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-55" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;参数空间设置&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1539.5" y="510" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UzzO5sEkcrBqQAZM9ub3-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1565" y="1760" />
+              <mxPoint x="1680" y="1600" />
+              <mxPoint x="1680" y="1760" />
               <mxPoint x="1245" y="1760" />
+              <mxPoint x="1245" y="1840" />
             </Array>
             <mxPoint x="1565" y="1600" as="sourcePoint" />
           </mxGeometry>
