@@ -62,13 +62,13 @@
           <mxGeometry x="475" y="1553" width="255" height="84" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-19" value="开始参数搜索" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1279" y="2060" width="156" height="49" as="geometry" />
+          <mxGeometry x="530.5" y="2140" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-20" value="UMAP参数网格&#xa;- n_neighbors: 5,15,30,50,100,200&#xa;- n_components: 1,2,3,5&#xa;- min_dist: 0,0.1,0.3,0.5,0.99&#xa;- metric: 3种" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="2123" width="164" height="110" as="geometry" />
+          <mxGeometry x="526.5" y="2203" width="164" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-21" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="2253" width="173" height="80" as="geometry" />
+          <mxGeometry x="521.5" y="2333" width="173" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-25" value="运行实验循环" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="530" y="2040" width="156" height="49" as="geometry" />
@@ -215,6 +215,9 @@
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-3" value="试验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="564" y="3318" width="87" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="2470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
