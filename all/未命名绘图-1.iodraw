@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="cNDDiOXiV0z09lh6KE11">
-    <mxGraphModel dx="1163" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,10 +62,10 @@
           <mxGeometry x="525" y="1687" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-20" value="UMAP参数网格&#xa;- n_neighbors: 5,15,30,50,100,200&#xa;- n_components: 1,2,3,5&#xa;- min_dist: 0,0.1,0.3,0.5,0.99&#xa;- metric: 3种" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="521" y="1750" width="164" height="85" as="geometry" />
+          <mxGeometry x="521" y="1750" width="164" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-21" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="516" y="1885" width="173" height="49" as="geometry" />
+          <mxGeometry x="516" y="1880" width="173" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-22" value="限制组合数" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="538" y="1983" width="129" height="129" as="geometry" />
