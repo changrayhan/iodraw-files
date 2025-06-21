@@ -16,10 +16,10 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-2" value="加载5%数据集" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="208" y="119" width="175" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-3" value="训练基准模型&#xa;5轮训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-3" value="训练基准模型&#xa;5轮训练" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="217" y="217" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-4" value="初始化贝叶斯优化&#xa;高斯过程GP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-4" value="初始化贝叶斯优化&#xa;高斯过程GP" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="201" y="334" width="189" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-5" value="随机采样5个参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
