@@ -117,7 +117,12 @@
           <mxGeometry x="1527" y="570" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-25" target="LXdGx_rUv5jozxzTsOZ8-42">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1690" y="930" />
+              <mxPoint x="1688" y="930" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-25" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1540.25" y="730" width="299.5" height="110" as="geometry" />
