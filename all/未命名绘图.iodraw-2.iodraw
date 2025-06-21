@@ -22,10 +22,10 @@
         <mxCell id="5qKwcg2el8xx4qIStcMq-33" value="客户端训练模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="97" y="1039" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-34" value="计算模型更新哈希&#xa;SHA-256" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5qKwcg2el8xx4qIStcMq-34" value="计算模型更新哈希&#xa;SHA-256" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="1137" width="188" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-35" value="使用私钥签名哈希" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5qKwcg2el8xx4qIStcMq-35" value="使用私钥签名哈希" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="1254" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-36" value="提交更新和签名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
