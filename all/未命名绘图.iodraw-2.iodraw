@@ -22,7 +22,7 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-4" value="初始化贝叶斯优化&#xa;高斯过程GP" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="201" y="334" width="189" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-5" value="随机采样5个参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-5" value="随机采样5个参数组合" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="189" y="450" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXA0BZ2NecKwn816zpT9-6" target="oXA0BZ2NecKwn816zpT9-7">
@@ -33,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-6" value="评估每个参数组合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-6" value="评估每个参数组合" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="201" y="549" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-7" value="迭代完成?&#xa;n=5" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
