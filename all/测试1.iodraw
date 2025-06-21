@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="cNDDiOXiV0z09lh6KE11">
-    <mxGraphModel dx="4316" dy="2351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1641" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-3" value="创建默认配置文件&#xa;- 数据集: MNIST&#xa;- false_ratio: 0.05&#xa;- noise_level: 0.3&#xa;- 异常类型: 多种" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="503" y="470" width="188" height="90" as="geometry" />
+          <mxGeometry x="160" y="470" width="890" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-4" value="加载配置文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="518.5" y="620" width="157" height="49" as="geometry" />
