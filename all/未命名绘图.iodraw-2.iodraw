@@ -36,10 +36,10 @@
         <mxCell id="oXA0BZ2NecKwn816zpT9-6" value="评估每个参数组合" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="201" y="549" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-7" value="迭代完成?&#xa;n=5" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-7" value="迭代完成?&#xa;n=5" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="707" y="80" width="136" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="oXA0BZ2NecKwn816zpT9-8" value="训练高斯过程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oXA0BZ2NecKwn816zpT9-8" value="训练高斯过程" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="531" y="289" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-9" value="使用UCB选择下一参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
