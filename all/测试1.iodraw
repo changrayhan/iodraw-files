@@ -13,11 +13,10 @@
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-100" y="440" width="1410" height="1200" as="geometry" />
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aeDCXsFyPXphlQHstoev-1" target="aeDCXsFyPXphlQHstoev-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-1" value="开始实验" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="564" y="400" width="88" height="34" as="geometry" />
+        <mxCell id="aeDCXsFyPXphlQHstoev-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="aeDCXsFyPXphlQHstoev-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608.0000000000009" y="434" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aeDCXsFyPXphlQHstoev-3" target="aeDCXsFyPXphlQHstoev-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
