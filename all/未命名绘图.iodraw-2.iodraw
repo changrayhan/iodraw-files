@@ -26,7 +26,7 @@
           <mxGeometry x="500" y="750" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-38" value="拒绝更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="990" width="124" height="49" as="geometry" />
+          <mxGeometry x="390" y="1000" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-39" value="检查黑名单" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630" y="877" width="129" height="129" as="geometry" />
@@ -146,6 +146,9 @@
               <mxPoint x="716" y="1487" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5qKwcg2el8xx4qIStcMq-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="803" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
