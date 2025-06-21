@@ -252,7 +252,7 @@
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a3Kl6w1wa4OzZ_TtdwUN-32" target="a3Kl6w1wa4OzZ_TtdwUN-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-45" value="统计结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-45" value="汇总结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1484.5" y="1627" width="173" height="80" as="geometry" />
         </mxCell>
       </root>
