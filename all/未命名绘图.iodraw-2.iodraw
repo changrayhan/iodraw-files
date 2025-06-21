@@ -28,6 +28,9 @@
         <mxCell id="5qKwcg2el8xx4qIStcMq-35" value="使用私钥签名哈希" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="1254" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="5qKwcg2el8xx4qIStcMq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5qKwcg2el8xx4qIStcMq-36" target="5qKwcg2el8xx4qIStcMq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-36" value="提交更新和签名" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="98" y="1352" width="172" height="49" as="geometry" />
         </mxCell>
@@ -151,7 +154,7 @@
         <mxCell id="5qKwcg2el8xx4qIStcMq-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5qKwcg2el8xx4qIStcMq-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="716" y="1487" />
+              <mxPoint x="640" y="1490" />
             </Array>
             <mxPoint x="414" y="1590" as="targetPoint" />
           </mxGeometry>
