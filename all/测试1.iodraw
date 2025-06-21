@@ -45,10 +45,10 @@
         <mxCell id="aeDCXsFyPXphlQHstoev-12" value="椒盐噪声&#xa;随机黑白点" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="227" y="1311" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-13" value="局部遮挡&#xa;8×8随机区域" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="aeDCXsFyPXphlQHstoev-13" value="局部遮挡&#xa;8×8随机区域" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="417" y="1311" width="149" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-14" value="混合样本&#xa;不同类别混合" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="aeDCXsFyPXphlQHstoev-14" value="混合样本&#xa;不同类别混合" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="616" y="1311" width="157" height="66" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-15" value="对抗扰动&#xa;epsilon扰动" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
