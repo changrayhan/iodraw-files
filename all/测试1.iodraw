@@ -61,7 +61,7 @@
         <mxCell id="aeDCXsFyPXphlQHstoev-18" value="保存生成数据&#xa;generated_data_时间戳.xlsx" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="475" y="1553" width="255" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-19" value="开始参数搜索" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="aeDCXsFyPXphlQHstoev-19" value="参数初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="530.5" y="2140" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-20" value="UMAP参数网格&#xa;- n_neighbors: 5,15,30,50,100,200&#xa;- n_components: 1,2,3,5&#xa;- min_dist: 0,0.1,0.3,0.5,0.99&#xa;- metric: 3种" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
