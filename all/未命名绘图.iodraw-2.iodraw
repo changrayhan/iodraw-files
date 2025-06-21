@@ -16,10 +16,10 @@
         <mxCell id="5qKwcg2el8xx4qIStcMq-31" value="生成客户端密钥对&#xa;ECDSA-P256" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="824" width="188" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-32" value="初始化信任值=1.0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5qKwcg2el8xx4qIStcMq-32" value="初始化信任值=1.0" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="940" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-33" value="客户端训练模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5qKwcg2el8xx4qIStcMq-33" value="客户端训练模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="97" y="1039" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5qKwcg2el8xx4qIStcMq-34" value="计算模型更新哈希&#xa;SHA-256" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
