@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kA0fn1jtsSiUAm7cBry2">
-    <mxGraphModel dx="2048" dy="823" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3540" dy="1829" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,8 +130,10 @@
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-23" value="UMAP参数网格&#xa;- n_neighbors: 5,15,30,50,100,200&#xa;- n_components: 1,2,3,5&#xa;- min_dist: 0,0.1,0.3,0.5,0.99&#xa;- metric: 3种" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1527" y="570" width="325" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UzzO5sEkcrBqQAZM9ub3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-25" target="UzzO5sEkcrBqQAZM9ub3-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1561.5" y="971" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-25" value="OCSVM参数网格&#xa;- kernel: 4种&#xa;- gamma: 5种&#xa;- nu: 4种-基于false_ratio" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1540.25" y="730" width="299.5" height="110" as="geometry" />
@@ -252,11 +254,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UzzO5sEkcrBqQAZM9ub3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-45" target="UzzO5sEkcrBqQAZM9ub3-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UzzO5sEkcrBqQAZM9ub3-45" value="执行UMAP降维" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1475" y="971" width="173" height="80" as="geometry" />
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="UzzO5sEkcrBqQAZM9ub3-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1561.5" y="1051" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-47" target="UzzO5sEkcrBqQAZM9ub3-49">
           <mxGeometry relative="1" as="geometry" />
@@ -279,8 +280,10 @@
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-52" value="是否还有参数组合？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1447" y="1411.5" width="230" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="UzzO5sEkcrBqQAZM9ub3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-54" target="UzzO5sEkcrBqQAZM9ub3-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UzzO5sEkcrBqQAZM9ub3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UzzO5sEkcrBqQAZM9ub3-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1648" y="1011" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UzzO5sEkcrBqQAZM9ub3-54" value="更新参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1768" y="1444" width="173" height="80" as="geometry" />
