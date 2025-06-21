@@ -87,9 +87,6 @@
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-45" value="对比检测精确率" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="581" y="4417" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-46" value="打印对比结果&#xa;- UMAP+OCSVM精确率&#xa;- 直接OCSVM精确率" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="588" y="4515" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-47" value="实验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="623" y="4614" width="87" height="34" as="geometry" />
         </mxCell>
@@ -297,14 +294,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="LXdGx_rUv5jozxzTsOZ8-45" target="LXdGx_rUv5jozxzTsOZ8-46" edge="1">
+        <mxCell id="LXdGx_rUv5jozxzTsOZ8-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="LXdGx_rUv5jozxzTsOZ8-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="LXdGx_rUv5jozxzTsOZ8-46" target="LXdGx_rUv5jozxzTsOZ8-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="666.5" y="4564.000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
