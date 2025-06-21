@@ -128,10 +128,10 @@
           <mxGeometry x="-20" y="355" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;参数更新&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="642" y="670" width="200" height="30" as="geometry" />
+          <mxGeometry x="642" y="660" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oXA0BZ2NecKwn816zpT9-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;初始化&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="208" y="670" width="200" height="30" as="geometry" />
+          <mxGeometry x="217" y="660" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
