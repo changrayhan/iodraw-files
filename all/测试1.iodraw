@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2440" width="670" height="630" as="geometry" />
+          <mxGeometry x="380" y="2450" width="670" height="630" as="geometry" />
         </mxCell>
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="2170" width="250" height="260" as="geometry" />
@@ -253,7 +253,7 @@
         <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-28" value="参数空间设置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="437" y="2280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-31" value="主实验流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="a3Kl6w1wa4OzZ_TtdwUN-31" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;主实验流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="701" y="3003" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
