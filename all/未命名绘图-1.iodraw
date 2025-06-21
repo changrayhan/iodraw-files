@@ -22,11 +22,8 @@
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-6" value="加载数据集&#xa;- MNIST: 28×28&#xa;- CIFAR-10: 32×32×3&#xa;- 限制样本数: 5000" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="596" y="732" width="141" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-7" value="准备数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="605" y="830" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-8" value="数据分割&#xa;- Trueset: 正常样本&#xa;- Falseset: 待生成异常样本&#xa;比例由false_ratio决定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="604" y="929" width="125" height="49" as="geometry" />
+          <mxGeometry x="604" y="920" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-9" value="生成异常数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="589" y="1028" width="156" height="49" as="geometry" />
@@ -161,14 +158,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LXdGx_rUv5jozxzTsOZ8-6" target="LXdGx_rUv5jozxzTsOZ8-7">
+        <mxCell id="LXdGx_rUv5jozxzTsOZ8-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LXdGx_rUv5jozxzTsOZ8-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LXdGx_rUv5jozxzTsOZ8-7" target="LXdGx_rUv5jozxzTsOZ8-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="667" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LXdGx_rUv5jozxzTsOZ8-8" target="LXdGx_rUv5jozxzTsOZ8-9">
