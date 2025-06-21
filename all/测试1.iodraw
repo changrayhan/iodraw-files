@@ -28,7 +28,7 @@
           <mxGeometry x="518.5" y="620" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-6" value="加载数据集&#xa;- MNIST: 28×28&#xa;- CIFAR-10: 32×32×3&#xa;- 限制样本数: 5000" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="232" y="722" width="730" height="108" as="geometry" />
+          <mxGeometry x="150" y="722" width="900" height="108" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-8" value="数据分割&#xa;- Trueset: 正常样本&#xa;- Falseset: 待生成异常样本&#xa;比例由false_ratio决定" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="362" y="890" width="470" height="100" as="geometry" />
