@@ -107,7 +107,7 @@
           <mxGeometry x="524" y="3504" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-35" value="保存到Excel&#xa;result_ocsvm_optimized.xlsx&#xa;- 所有结果&#xa;- Top10结果&#xa;- 检测精确率Top10&#xa;- 汇总统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="473" y="3603" width="259" height="84" as="geometry" />
+          <mxGeometry x="473" y="3580" width="259" height="107" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-36" value="找出最佳参数组合&#xa;基于F1分数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="509" y="3737" width="188" height="66" as="geometry" />
