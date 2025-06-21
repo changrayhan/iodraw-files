@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C5fvl7NzX2dHRylJ_jxG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C5fvl7NzX2dHRylJ_jxG-1" target="C5fvl7NzX2dHRylJ_jxG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C5fvl7NzX2dHRylJ_jxG-1" value="将模型更新序列化为字节流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="90" height="60" as="geometry" />
+          <mxGeometry x="60" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C5fvl7NzX2dHRylJ_jxG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C5fvl7NzX2dHRylJ_jxG-2" target="C5fvl7NzX2dHRylJ_jxG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C5fvl7NzX2dHRylJ_jxG-2" value="计算SHA-256哈希值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="80" height="60" as="geometry" />
