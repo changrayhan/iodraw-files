@@ -95,7 +95,7 @@
           <mxGeometry x="523" y="3273" width="159" height="159" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-47" value="实验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="559" y="3520" width="87" height="34" as="geometry" />
+          <mxGeometry x="550" y="3630" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="aeDCXsFyPXphlQHstoev-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aeDCXsFyPXphlQHstoev-4" target="aeDCXsFyPXphlQHstoev-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -291,12 +291,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="602.5000000000005" y="3504" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aeDCXsFyPXphlQHstoev-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="aeDCXsFyPXphlQHstoev-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="602.5000000000005" y="3470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
