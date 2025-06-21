@@ -1,15 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kA0fn1jtsSiUAm7cBry2">
-    <mxGraphModel dx="1357" dy="-255" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="-2593" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-11" value="增强高斯噪声&#xa;noise_level × 2" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1321" width="167" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-16" value="模糊效果&#xa;高斯模糊σ=2.0" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1085" y="1321" width="164" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-42" value="消融实验对比" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="589" y="4202" width="156" height="49" as="geometry" />
         </mxCell>
@@ -27,38 +21,6 @@
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-47" value="实验结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="623" y="4614" width="87" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" parent="1" target="LXdGx_rUv5jozxzTsOZ8-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="163" y="1296" />
-            </Array>
-            <mxPoint x="606.0833333333335" y="1210.5833333333335" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" parent="1" target="LXdGx_rUv5jozxzTsOZ8-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1167" y="1296" />
-            </Array>
-            <mxPoint x="726.9166666666665" y="1210.5833333333335" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" parent="1" source="LXdGx_rUv5jozxzTsOZ8-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="163" y="1412" />
-            </Array>
-            <mxPoint x="552" y="1457.4600000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LXdGx_rUv5jozxzTsOZ8-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.31;rounded=0;" parent="1" source="LXdGx_rUv5jozxzTsOZ8-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1167" y="1412" />
-            </Array>
-            <mxPoint x="774" y="1457.4600000000005" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="LXdGx_rUv5jozxzTsOZ8-42" edge="1">
           <mxGeometry relative="1" as="geometry">
