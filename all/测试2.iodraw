@@ -20,12 +20,12 @@
           <mxGeometry x="1770" y="1260" width="193" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-45" value="对比检测精确率" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="1430" width="172" height="49" as="geometry" />
+          <mxGeometry x="1590" y="1460" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="LXdGx_rUv5jozxzTsOZ8-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="LXdGx_rUv5jozxzTsOZ8-42" target="LXdGx_rUv5jozxzTsOZ8-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1525" y="1133" />
+              <mxPoint x="1530" y="1140" />
             </Array>
           </mxGeometry>
         </mxCell>
