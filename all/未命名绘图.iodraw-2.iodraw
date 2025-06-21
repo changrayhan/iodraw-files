@@ -178,8 +178,8 @@
         <mxCell id="5qKwcg2el8xx4qIStcMq-72" value="开始" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="265" y="620.5" width="330" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="5qKwcg2el8xx4qIStcMq-75" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="154" y="1460" width="60" height="30" as="geometry" />
+        <mxCell id="5qKwcg2el8xx4qIStcMq-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;生成参数&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1460" width="134" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
