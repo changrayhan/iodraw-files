@@ -16,11 +16,11 @@
         <mxCell id="1-LP33t4B5OR7HS_76XK-1" value="将数据转换为 PyTorch 张量" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-LP33t4B5OR7HS_76XK-2" value="按 8:2 比例分割训练集和测试集" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="190" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="1-LP33t4B5OR7HS_76XK-2" value="按 8:2 比例分割&#xa;训练集和测试集" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="550" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1-LP33t4B5OR7HS_76XK-3" value="返回数据集和计算出的元信息" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="175" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
