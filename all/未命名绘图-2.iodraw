@@ -31,13 +31,13 @@
         <mxCell id="1-LP33t4B5OR7HS_76XK-5" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;要求包含 &#39;data&#39; 和 &#39;labels&#39; 键&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1-LP33t4B5OR7HS_76XK-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="1-LP33t4B5OR7HS_76XK-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.442;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1-LP33t4B5OR7HS_76XK-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="420" as="sourcePoint" />
-            <mxPoint x="530" y="370" as="targetPoint" />
+            <mxPoint x="150" y="210" as="sourcePoint" />
+            <mxPoint x="200" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="420" />
-              <mxPoint x="480" y="370" />
+              <mxPoint x="200" y="210" />
+              <mxPoint x="80" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
