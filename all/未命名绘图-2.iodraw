@@ -13,10 +13,10 @@
         <mxCell id="zl_1Ico2capPN5_Ac52f-3" value="验证数据形状并自动重塑&#xa;" style="rounded=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1-LP33t4B5OR7HS_76XK-1" value="将数据转换为 PyTorch 张量" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1-LP33t4B5OR7HS_76XK-1" value="将数据转换为 PyTorch 张量" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="175" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-LP33t4B5OR7HS_76XK-2" value="按 8:2 比例分割训练集和测试集" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1-LP33t4B5OR7HS_76XK-2" value="按 8:2 比例分割训练集和测试集" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="190" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1-LP33t4B5OR7HS_76XK-3" value="返回数据集和计算出的元信息" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
