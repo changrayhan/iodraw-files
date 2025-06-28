@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PF5pvk1zONyx9zkmiu8i-1" value="计算所有客户端的总权重 total_weight" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="190" y="80" width="260" height="60" as="geometry" />
+          <mxGeometry x="160" y="100" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PF5pvk1zONyx9zkmiu8i-2" value="基于第一个客户端的参数结构初始化聚合结果字典 aggregated_state" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="380" height="110" as="geometry" />
