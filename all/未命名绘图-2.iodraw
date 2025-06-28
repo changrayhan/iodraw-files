@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zl_1Ico2capPN5_Ac52f-1" value="验证文件存在性" style="rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="80" y="60" width="230" height="60" as="geometry" />
+        <mxCell id="zl_1Ico2capPN5_Ac52f-1" value="验证文件存在性" style="rounded=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="80" y="60" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl_1Ico2capPN5_Ac52f-2" value="根据文件扩展名选择加载方式&#xa;" style="rounded=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="230" height="60" as="geometry" />
