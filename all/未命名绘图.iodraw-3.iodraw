@@ -13,10 +13,10 @@
         <mxCell id="CUktEEPXq3JXr86zrnSU-3" value="对每个客户端，获取其信任值" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUktEEPXq3JXr86zrnSU-6" value="计算加权权重 = 原始权重 × 信任值" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CUktEEPXq3JXr86zrnSU-6" value="计算加权权重 = 原始权重 × 信任值" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUktEEPXq3JXr86zrnSU-7" value="记录日志，便于监控各客户端的贡献变化" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CUktEEPXq3JXr86zrnSU-7" value="记录日志，便于监控各客户端的贡献变化" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="70" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
