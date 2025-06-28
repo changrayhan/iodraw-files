@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zl_1Ico2capPN5_Ac52f-1" value="验证文件存在性" style="rounded=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="80" y="60" width="170" height="60" as="geometry" />
+          <mxGeometry x="120" y="60" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl_1Ico2capPN5_Ac52f-2" value="根据文件扩展名选择加载方式&#xa;" style="rounded=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="230" height="60" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="1-LP33t4B5OR7HS_76XK-2" value="按 8:2 比例分割训练集和测试集" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="190" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-LP33t4B5OR7HS_76XK-3" value="返回数据集和计算出的元信息" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1-LP33t4B5OR7HS_76XK-3" value="返回数据集和计算出的元信息" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="175" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
