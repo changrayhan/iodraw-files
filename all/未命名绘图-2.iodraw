@@ -51,8 +51,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-LP33t4B5OR7HS_76XK-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="200" width="60" height="30" as="geometry" />
+        <mxCell id="1-LP33t4B5OR7HS_76XK-12" value="CSV数据集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
