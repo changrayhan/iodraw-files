@@ -10,6 +10,12 @@
         <mxCell id="zl_1Ico2capPN5_Ac52f-1" value="验证文件存在性" style="rounded=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="120" y="60" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1-LP33t4B5OR7HS_76XK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zl_1Ico2capPN5_Ac52f-2" target="1-LP33t4B5OR7HS_76XK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-LP33t4B5OR7HS_76XK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zl_1Ico2capPN5_Ac52f-2" target="1-LP33t4B5OR7HS_76XK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zl_1Ico2capPN5_Ac52f-2" value="根据文件扩展名选择加载方式" style="rounded=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="120" y="140" width="170" height="70" as="geometry" />
         </mxCell>
