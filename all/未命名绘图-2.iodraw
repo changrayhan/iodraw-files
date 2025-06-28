@@ -10,11 +10,14 @@
         <mxCell id="PF5pvk1zONyx9zkmiu8i-1" value="计算所有客户端的总权重 total_weight" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="380" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PF5pvk1zONyx9zkmiu8i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PF5pvk1zONyx9zkmiu8i-2" target="PF5pvk1zONyx9zkmiu8i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PF5pvk1zONyx9zkmiu8i-2" value="基于第一个客户端的参数结构初始化聚合结果字典 aggregated_state" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PF5pvk1zONyx9zkmiu8i-3" value="对每个参数层，创建与原始参数同形状的零张量遍历所有客户端，按归一化权重&#xa;（权重分数 = 客户端权重 / 总权重）&#xa;累加参数" style="rounded=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="375" height="140" as="geometry" />
+          <mxGeometry x="162.5" y="360" width="375" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
