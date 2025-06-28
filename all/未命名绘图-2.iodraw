@@ -8,10 +8,10 @@
           <mxGeometry x="190" y="80" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PF5pvk1zONyx9zkmiu8i-2" value="基于第一个客户端的参数结构初始化聚合结果字典 aggregated_state" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="210" width="260" height="110" as="geometry" />
+          <mxGeometry x="190" y="180" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PF5pvk1zONyx9zkmiu8i-3" value="对每个参数层（如权重、偏置）：&#xa;创建与原始参数同形状的零张量遍历所有客户端，按归一化权重（权重分数 = 客户端权重 / 总权重）累加参数" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="380" width="300" height="140" as="geometry" />
+          <mxGeometry x="195" y="460" width="250" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
