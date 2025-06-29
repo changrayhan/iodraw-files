@@ -14,10 +14,10 @@
           <mxGeometry x="360" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zfladD9bQKnoaJSLQG5X-4" value="残差块组2&lt;div&gt;（128通道*2，stride=2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zfladD9bQKnoaJSLQG5X-5" value="残差块组3&lt;div&gt;（256通道*2，stride=2）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zfladD9bQKnoaJSLQG5X-6" value="通道注意力模块（CAM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="120" height="60" as="geometry" />
