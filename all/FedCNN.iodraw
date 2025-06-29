@@ -23,13 +23,13 @@
           <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zfladD9bQKnoaJSLQG5X-7" value="全局平均池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zfladD9bQKnoaJSLQG5X-8" value="全连接层1&lt;span style=&quot;background-color: initial;&quot;&gt;（512）&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ReLU+&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dropout(0.5)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zfladD9bQKnoaJSLQG5X-9" value="全连接层2(10)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
