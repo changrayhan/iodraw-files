@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kejF9_4Wo_zcDVik3e_c-1" value="加载数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kejF9_4Wo_zcDVik3e_c-2" value="训练基准模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kejF9_4Wo_zcDVik3e_c-3" value="使用贝叶斯优化搜索最优参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kejF9_4Wo_zcDVik3e_c-4" value="返回优化结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
