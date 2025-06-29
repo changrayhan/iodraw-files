@@ -16,7 +16,7 @@
         <mxCell id="zfladD9bQKnoaJSLQG5X-4" value="残差块组2&lt;div&gt;（128通道*2，stride=2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zfladD9bQKnoaJSLQG5X-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zfladD9bQKnoaJSLQG5X-5" value="残差块组3&lt;div&gt;（256通道*2，stride=2）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
