@@ -19,8 +19,8 @@
         <mxCell id="kejF9_4Wo_zcDVik3e_c-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kejF9_4Wo_zcDVik3e_c-3" target="kejF9_4Wo_zcDVik3e_c-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kejF9_4Wo_zcDVik3e_c-3" value="使用贝叶斯优化搜索最优参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="kejF9_4Wo_zcDVik3e_c-3" value="混合父代和子代种群，选择适应度低的M个染色体作为新的父代" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="230" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kejF9_4Wo_zcDVik3e_c-4" value="返回优化结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="320" width="120" height="60" as="geometry" />
