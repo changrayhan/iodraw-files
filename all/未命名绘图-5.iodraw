@@ -1,0 +1,158 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="K71W9-5ZgK9nAVh3BQWJ">
+    <mxGraphModel dx="537" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-2" value="车辆" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="43" y="20" width="150" height="1618" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-3" value="路侧节点 (RSU)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="287" y="20" width="150" height="1618" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-4" value="云平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="487" y="20" width="150" height="1618" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-5" value="Next RSU/CP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="697" y="20" width="150" height="1618" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-6" value="Trust Committee" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="897" y="20" width="150" height="1618" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-7" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" parent="1" vertex="1">
+          <mxGeometry x="242" y="809" width="541" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-8" value="[每一跳中继]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="XM_DmAfNdVq5GqSojTCO-7" vertex="1">
+          <mxGeometry x="40" width="501" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-9" value="1. 本地训练/计算&#xa;生成梯度或权重W" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-2" target="XM_DmAfNdVq5GqSojTCO-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="197" />
+              <mxPoint x="169" y="227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-10" value="2. 添加差分隐私噪声(σ)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-2" target="XM_DmAfNdVq5GqSojTCO-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="279" />
+              <mxPoint x="169" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-11" value="3. 使用平台抗量子公钥(pk_p)&#xa;同态加密W: HE.Enc(pk_p, W)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-2" target="XM_DmAfNdVq5GqSojTCO-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="382" />
+              <mxPoint x="169" y="412" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-12" value="4. 查询目录服务&#xa;获取可用RSU列表及公钥" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="XM_DmAfNdVq5GqSojTCO-2" target="XM_DmAfNdVq5GqSojTCO-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="534" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-13" value="5. 随机选择3个RSU中继" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-2" target="XM_DmAfNdVq5GqSojTCO-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="586" />
+              <mxPoint x="169" y="616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-14" value="6. 层层加密(洋葱结构)&#xa;最内层: HE.Ciphertext&#xa;外层: 中继路由信息" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-2" target="XM_DmAfNdVq5GqSojTCO-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="710" />
+              <mxPoint x="169" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-15" value="7. 解密一层，获下一跳地址" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-3" target="XM_DmAfNdVq5GqSojTCO-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="887" />
+              <mxPoint x="413" y="917" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-16" value="8. (可选) 同态聚合&#xa;C_agg = HE.Add(C_agg, C_new)" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-3" target="XM_DmAfNdVq5GqSojTCO-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="990" />
+              <mxPoint x="413" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-17" value="9. 转发数据包" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="XM_DmAfNdVq5GqSojTCO-3" target="XM_DmAfNdVq5GqSojTCO-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="576" y="1072" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-18" value="10. 接收最终密文聚合结果" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-4" target="XM_DmAfNdVq5GqSojTCO-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="1183" />
+              <mxPoint x="613" y="1213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-19" value="11. 使用门限私钥分片(sk_p_i)进行部分解密" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-4" target="XM_DmAfNdVq5GqSojTCO-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="1265" />
+              <mxPoint x="613" y="1295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-20" value="12. 收集t个部分解密分片" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="XM_DmAfNdVq5GqSojTCO-4" target="XM_DmAfNdVq5GqSojTCO-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="776" y="1347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-21" value="13. 组合分片，得到明文聚合结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="XM_DmAfNdVq5GqSojTCO-6" target="XM_DmAfNdVq5GqSojTCO-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="779" y="1399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-22" value="14. 更新全局模型" style="curved=1;endArrow=block;rounded=0;" parent="1" source="XM_DmAfNdVq5GqSojTCO-4" target="XM_DmAfNdVq5GqSojTCO-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="1451" />
+              <mxPoint x="613" y="1481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-23" value="15. 下发新全局模型" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="XM_DmAfNdVq5GqSojTCO-4" target="XM_DmAfNdVq5GqSojTCO-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="1533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-24" value="第一步：本地处理与加密" style="fillColor=#ffff88;strokeColor=#9E916F;" parent="1" vertex="1">
+          <mxGeometry x="20" y="95" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-25" value="第二步：构建洋葱路径" style="fillColor=#ffff88;strokeColor=#9E916F;" parent="1" vertex="1">
+          <mxGeometry x="93" y="432" width="294" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-26" value="第三步：洋葱路由与转发" style="fillColor=#ffff88;strokeColor=#9E916F;" parent="1" vertex="1">
+          <mxGeometry x="264" y="760" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XM_DmAfNdVq5GqSojTCO-27" value="第四步：平台聚合与解密" style="fillColor=#ffff88;strokeColor=#9E916F;" parent="1" vertex="1">
+          <mxGeometry x="464" y="1102" width="197" height="49" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
