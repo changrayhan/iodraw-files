@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sHTbK38gPXkdLAi1iYud-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;导弹—真目标&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;线段方程&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="460" y="260" width="160" height="70" as="geometry" />
+          <mxGeometry x="460" y="260" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sHTbK38gPXkdLAi1iYud-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sHTbK38gPXkdLAi1iYud-7" target="sHTbK38gPXkdLAi1iYud-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
