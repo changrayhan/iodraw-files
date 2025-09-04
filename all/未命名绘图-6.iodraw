@@ -13,9 +13,6 @@
         <mxCell id="sHTbK38gPXkdLAi1iYud-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;云团中心到导弹—真目标线段的距离小于10m&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sHTbK38gPXkdLAi1iYud-3" value="你" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="650" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="sHTbK38gPXkdLAi1iYud-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sHTbK38gPXkdLAi1iYud-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="440" as="targetPoint" />
@@ -50,7 +47,7 @@
         <mxCell id="sHTbK38gPXkdLAi1iYud-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sHTbK38gPXkdLAi1iYud-7" target="sHTbK38gPXkdLAi1iYud-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sHTbK38gPXkdLAi1iYud-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;烟雾弹位置方程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sHTbK38gPXkdLAi1iYud-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;烟幕弹位置方程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sHTbK38gPXkdLAi1iYud-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;FY1无人机位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
