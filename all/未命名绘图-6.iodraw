@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LzrHrsSni8Sw4WgtWlGN-2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="180" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="SUy2XnF9WzbcZLto-XbB-1" value="决策变量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="210" width="130" height="60" as="geometry" />
         </mxCell>
@@ -12,9 +15,6 @@
         </mxCell>
         <mxCell id="LzrHrsSni8Sw4WgtWlGN-1" value="约束条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LzrHrsSni8Sw4WgtWlGN-2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="180" y="270" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
