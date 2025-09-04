@@ -4,6 +4,146 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-1" value="循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="288" y="20" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-2" value="年 地块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="278" y="119" width="113" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-3" value="得到该地块所属地形的相关参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="208" y="217" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-4" value="可种植农作物种类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="334" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-5" value="种植最大季度（1或者2）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="216" y="432" width="237" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-6" value="生成染色体个体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="248" y="531" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-7" value="作物集合内部是否重复?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="652" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-8" value="最大季度=1 or 2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="119" y="940" width="168" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-9" value="与上一年作物是否重茬?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="156" y="1181" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-10" value="三年内是否种植豆类?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="164" y="1468" width="199" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-11" value="与上一年作物是否重茬?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1739" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-12" value="确定个体满足约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="2027" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-1" target="f7nEP3_vsxmQ4a2OemAx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-2" target="f7nEP3_vsxmQ4a2OemAx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-3" target="f7nEP3_vsxmQ4a2OemAx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-4" target="f7nEP3_vsxmQ4a2OemAx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-5" target="f7nEP3_vsxmQ4a2OemAx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-6" target="f7nEP3_vsxmQ4a2OemAx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="112" y="616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0;entryX=0.16;entryY=0.99;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-7" target="f7nEP3_vsxmQ4a2OemAx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="188" y="616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-20" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-7" target="f7nEP3_vsxmQ4a2OemAx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="127" y="903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-21" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0.37;entryY=0.99;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-8" target="f7nEP3_vsxmQ4a2OemAx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="903" />
+              <mxPoint x="280" y="616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-8" target="f7nEP3_vsxmQ4a2OemAx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="1144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0.55;entryY=0.99;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-9" target="f7nEP3_vsxmQ4a2OemAx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="1144" />
+              <mxPoint x="355" y="616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-24" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-9" target="f7nEP3_vsxmQ4a2OemAx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-25" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-10" target="f7nEP3_vsxmQ4a2OemAx-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="1703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0.75;entryY=0.99;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-11" target="f7nEP3_vsxmQ4a2OemAx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="1703" />
+              <mxPoint x="441" y="616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-27" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.34;entryY=-0.01;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-11" target="f7nEP3_vsxmQ4a2OemAx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7nEP3_vsxmQ4a2OemAx-28" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.75;entryY=-0.01;rounded=0;" edge="1" parent="1" source="f7nEP3_vsxmQ4a2OemAx-10" target="f7nEP3_vsxmQ4a2OemAx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="1703" />
+              <mxPoint x="527" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
