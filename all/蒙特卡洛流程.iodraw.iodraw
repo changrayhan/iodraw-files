@@ -21,7 +21,7 @@
         <mxCell id="G1up99nZ6yFBI__XmEwO-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;判断随机点数量是否达到上限？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G1up99nZ6yFBI__XmEwO-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1up99nZ6yFBI__XmEwO-6" value="判断随机点是否小于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="570" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
