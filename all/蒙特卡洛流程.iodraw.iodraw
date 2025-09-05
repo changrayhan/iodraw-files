@@ -7,6 +7,9 @@
         <mxCell id="G1up99nZ6yFBI__XmEwO-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;初始化参数&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;上下边界[5.1,25.1]、随机点数量N、已生成随机点数量M&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292.5" y="170" width="385" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G1up99nZ6yFBI__XmEwO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1up99nZ6yFBI__XmEwO-2" target="G1up99nZ6yFBI__XmEwO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G1up99nZ6yFBI__XmEwO-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;在[5.1,25.1]范围内生成随机点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="440" width="295" height="60" as="geometry" />
         </mxCell>
@@ -23,6 +26,9 @@
         </mxCell>
         <mxCell id="G1up99nZ6yFBI__XmEwO-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;判断距离是否小于10m&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="660" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G1up99nZ6yFBI__XmEwO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G1up99nZ6yFBI__XmEwO-7" target="G1up99nZ6yFBI__XmEwO-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G1up99nZ6yFBI__XmEwO-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;计算随机点对应的&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;text-align: justify; text-indent: 10pt; background-color: initial;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 20px;&quot;&gt;线段到云团中心的最短距离&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="540" width="295" height="60" as="geometry" />
