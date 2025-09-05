@@ -94,7 +94,7 @@
           <mxGeometry x="425" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1up99nZ6yFBI__XmEwO-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;遮蔽时长t=20*M/N&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="771.87" y="460" width="186.25" height="220" as="geometry" />
+          <mxGeometry x="780" y="460" width="178.12" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
