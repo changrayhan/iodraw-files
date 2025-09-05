@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yNhMfthLTp8ZEtYzhm_h-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="yNhMfthLTp8ZEtYzhm_h-1" value="初始化参数&lt;div&gt;种群数量N、最大迭代次数Tmax、发现者比例(PD)、警戒者比例（SD）、曲线自适应权重最小值Wmin、最大值Wmax&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
