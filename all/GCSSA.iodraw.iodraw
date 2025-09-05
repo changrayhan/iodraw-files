@@ -53,9 +53,9 @@
         <mxCell id="yNhMfthLTp8ZEtYzhm_h-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNhMfthLTp8ZEtYzhm_h-15" target="yNhMfthLTp8ZEtYzhm_h-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yNhMfthLTp8ZEtYzhm_h-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yNhMfthLTp8ZEtYzhm_h-28">
+        <mxCell id="yNhMfthLTp8ZEtYzhm_h-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;新适应度更优&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yNhMfthLTp8ZEtYzhm_h-28">
           <mxGeometry x="-0.4286" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yNhMfthLTp8ZEtYzhm_h-15" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;比较扰动后的新适应度与原适应度&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
