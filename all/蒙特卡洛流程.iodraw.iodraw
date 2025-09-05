@@ -30,6 +30,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="G1up99nZ6yFBI__XmEwO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1up99nZ6yFBI__XmEwO-3" target="G1up99nZ6yFBI__XmEwO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G1up99nZ6yFBI__XmEwO-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;判断随机点数量是否达到上限？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="400" height="80" as="geometry" />
         </mxCell>
