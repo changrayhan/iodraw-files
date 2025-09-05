@@ -45,7 +45,17 @@
         <mxCell id="yNhMfthLTp8ZEtYzhm_h-15" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;比较扰动后的新适应度与原适应度&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1380" width="802" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yNhMfthLTp8ZEtYzhm_h-17" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;比较扰动后的新适应度与原适应度&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yNhMfthLTp8ZEtYzhm_h-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNhMfthLTp8ZEtYzhm_h-17" target="yNhMfthLTp8ZEtYzhm_h-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="1610" />
+              <mxPoint x="50" y="1102" />
+              <mxPoint x="60" y="1102" />
+              <mxPoint x="60" y="572" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNhMfthLTp8ZEtYzhm_h-17" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;判断是否到达最大迭代次数&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="1560" width="802" height="100" as="geometry" />
         </mxCell>
       </root>
