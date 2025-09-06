@@ -32,7 +32,7 @@
           <mxGeometry x="630.5" y="477" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-9" value="当前区间开始时间 ≤ 最后区间结束时间+1e-8?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="403" y="983" width="240" height="240" as="geometry" />
+          <mxGeometry x="618" y="930" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-10" value="合并区间：更新最后区间结束时间为最大值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="477" y="1295" width="252" height="66" as="geometry" />
