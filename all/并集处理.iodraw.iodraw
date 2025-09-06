@@ -4,20 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="345" y="10" width="55" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-2" target="0M7ALRThsz2lDNq4J3Vw-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0M7ALRThsz2lDNq4J3Vw-27">
-          <mxGeometry x="-0.1476" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-2" value="输入区间列表是否为空?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="265" y="94" width="215" height="215" as="geometry" />
-        </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-4" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="131" y="1086" width="55" height="34" as="geometry" />
         </mxCell>
@@ -76,11 +62,6 @@
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-12" value="返回合并后的区间列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="163" y="891" width="183" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-1" target="0M7ALRThsz2lDNq4J3Vw-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=-0.01;rounded=0;" edge="1" parent="1" target="0M7ALRThsz2lDNq4J3Vw-4">
           <mxGeometry relative="1" as="geometry">
