@@ -91,7 +91,7 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-38" value="开始&lt;div&gt;输入所有区间&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="30" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-42" value="返回合并后的列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
