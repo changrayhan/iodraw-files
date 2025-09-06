@@ -80,7 +80,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-8" value="取出合并列表最后一个区间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-8" value="取出合并列表最后一个区间" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="612" y="830" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-38" target="0M7ALRThsz2lDNq4J3Vw-5">
