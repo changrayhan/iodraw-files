@@ -25,11 +25,11 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-6" value="初始化合并列表，加入排序后第一个区间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="611.5" y="300" width="253" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7" target="0M7ALRThsz2lDNq4J3Vw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-7" value="是否有剩余区间待遍历?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630.5" y="477" width="215" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-8" value="取出合并列表最后一个区间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="900" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-9" value="当前区间开始时间 ≤ 最后区间结束时间+1e-8?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="403" y="983" width="240" height="240" as="geometry" />
@@ -84,12 +84,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0.97;entryY=1;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-10" target="0M7ALRThsz2lDNq4J3Vw-7">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0.97;entryY=1;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-8" target="0M7ALRThsz2lDNq4J3Vw-7">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="1259" />
-              <mxPoint x="740" y="848" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0;entryX=1;entryY=0.73;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-11" target="0M7ALRThsz2lDNq4J3Vw-7">
@@ -113,6 +110,19 @@
               <mxPoint x="255" y="958" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0.97;entryY=1;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-10" target="0M7ALRThsz2lDNq4J3Vw-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="1259" />
+              <mxPoint x="740" y="848" />
+            </Array>
+            <mxPoint x="669" y="1295" as="sourcePoint" />
+            <mxPoint x="790" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-8" value="取出合并列表最后一个区间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="612" y="830" width="252" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
