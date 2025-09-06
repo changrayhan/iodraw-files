@@ -40,7 +40,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-9" value="当前区间开始时间 ≤ 最后区间结束时间+1e-8?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-9" value="当前区间开始时间 ≤ 最后区间结束时间+1e-8?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="618" y="930" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-10" target="0M7ALRThsz2lDNq4J3Vw-7">
@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-11" value="将当前区间添加到合并列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-11" value="将当前区间添加到合并列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="950" y="1025.5" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-5" target="0M7ALRThsz2lDNq4J3Vw-6">
