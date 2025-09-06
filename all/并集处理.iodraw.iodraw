@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-7" value="是否有剩余区间待遍历?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="630.5" y="477" width="215" height="215" as="geometry" />
+          <mxGeometry x="598.25" y="477" width="279.5" height="215" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-9" target="0M7ALRThsz2lDNq4J3Vw-11">
           <mxGeometry relative="1" as="geometry" />
@@ -42,15 +42,6 @@
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-9" value="当前区间开始时间 ≤ 最后区间结束时间+1e-8?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="618" y="930" width="240" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-10" target="0M7ALRThsz2lDNq4J3Vw-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="1273" />
-              <mxPoint x="510" y="760" />
-              <mxPoint x="684" y="760" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-10" value="合并区间：更新最后区间结束时间为最大值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="611.5" y="1240" width="252" height="66" as="geometry" />
