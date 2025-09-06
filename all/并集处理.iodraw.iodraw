@@ -7,7 +7,7 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-5" value="按区间开始时间升序排序" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="620" y="177" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-6" value="初始化合并列表，加入排序后第一个区间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-6" value="初始化合并列表，加入排序后第一个区间" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="611.5" y="300" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7" target="0M7ALRThsz2lDNq4J3Vw-8">
@@ -21,7 +21,7 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7" target="0M7ALRThsz2lDNq4J3Vw-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-7" value="是否有剩余区间待遍历?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-7" value="是否有剩余区间待遍历?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="630.5" y="477" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-9" target="0M7ALRThsz2lDNq4J3Vw-11">
