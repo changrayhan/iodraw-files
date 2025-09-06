@@ -21,7 +21,7 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7" target="0M7ALRThsz2lDNq4J3Vw-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-51" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0M7ALRThsz2lDNq4J3Vw-45">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0M7ALRThsz2lDNq4J3Vw-45">
           <mxGeometry x="-0.4287" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
