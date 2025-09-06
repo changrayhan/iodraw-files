@@ -16,8 +16,14 @@
         <mxCell id="lm0Bsj5lF3TZxSDJ_39y-2" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;初始化位置数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lm0Bsj5lF3TZxSDJ_39y-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lm0Bsj5lF3TZxSDJ_39y-4" target="lm0Bsj5lF3TZxSDJ_39y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lm0Bsj5lF3TZxSDJ_39y-4" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;计算云团中心到导弹—真目标点线段最短距离&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="340" width="330" height="120" as="geometry" />
+          <mxGeometry x="150" y="400" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lm0Bsj5lF3TZxSDJ_39y-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lm0Bsj5lF3TZxSDJ_39y-6" target="lm0Bsj5lF3TZxSDJ_39y-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lm0Bsj5lF3TZxSDJ_39y-6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;计算无人机在导弹飞行时间内的最大飞行距离&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="555" width="330" height="105" as="geometry" />
