@@ -18,14 +18,8 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="840" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="291" y="585" />
-              <mxPoint x="291" y="840" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7" target="0M7ALRThsz2lDNq4J3Vw-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-7" value="是否有剩余区间待遍历?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630.5" y="477" width="215" height="215" as="geometry" />
