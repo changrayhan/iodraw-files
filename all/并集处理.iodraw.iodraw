@@ -38,7 +38,7 @@
           <mxGeometry x="477" y="1295" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-11" value="将当前区间添加到合并列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="779" y="1304" width="253" height="49" as="geometry" />
+          <mxGeometry x="950" y="1025.5" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-12" value="返回合并后的区间列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="163" y="891" width="183" height="34" as="geometry" />
