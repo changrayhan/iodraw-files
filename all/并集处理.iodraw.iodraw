@@ -10,6 +10,11 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-2" target="0M7ALRThsz2lDNq4J3Vw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0M7ALRThsz2lDNq4J3Vw-27">
+          <mxGeometry x="-0.1476" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-2" value="输入区间列表是否为空?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="265" y="94" width="215" height="215" as="geometry" />
         </mxCell>
@@ -54,8 +59,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="1273" />
-              <mxPoint x="510" y="966" />
-              <mxPoint x="684" y="966" />
+              <mxPoint x="510" y="760" />
+              <mxPoint x="684" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
