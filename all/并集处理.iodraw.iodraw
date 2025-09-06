@@ -1,12 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="6vOaisIDF0AVMk6pGdVK">
-    <mxGraphModel dx="1027" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-4" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="131" y="1086" width="55" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-5" value="按区间开始时间升序排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="177" width="236" height="49" as="geometry" />
         </mxCell>
@@ -65,14 +62,6 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-11" value="将当前区间添加到合并列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="950" y="1025.5" width="253" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=-0.01;rounded=0;" edge="1" parent="1" target="0M7ALRThsz2lDNq4J3Vw-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="62" y="958" />
-            </Array>
-            <mxPoint x="372.5" y="434.0000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-5" target="0M7ALRThsz2lDNq4J3Vw-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -86,14 +75,6 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-8" target="0M7ALRThsz2lDNq4J3Vw-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="255" y="848" />
-            </Array>
-            <mxPoint x="254.5" y="891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-8" value="取出合并列表最后一个区间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
