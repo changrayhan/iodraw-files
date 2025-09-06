@@ -46,6 +46,10 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-10" target="0M7ALRThsz2lDNq4J3Vw-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1273" />
+              <mxPoint x="520" y="638" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-10" value="合并区间：更新最后区间结束时间为最大值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
