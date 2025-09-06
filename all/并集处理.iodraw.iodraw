@@ -60,9 +60,6 @@
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-11" value="将当前区间添加到合并列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="950" y="1025.5" width="253" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-12" value="返回合并后的区间列表" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163" y="891" width="183" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=-0.01;rounded=0;" edge="1" parent="1" target="0M7ALRThsz2lDNq4J3Vw-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -86,18 +83,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7" target="0M7ALRThsz2lDNq4J3Vw-12">
+        <mxCell id="0M7ALRThsz2lDNq4J3Vw-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="255" y="848" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0M7ALRThsz2lDNq4J3Vw-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0M7ALRThsz2lDNq4J3Vw-12" target="0M7ALRThsz2lDNq4J3Vw-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="255" y="958" />
-            </Array>
+            <mxPoint x="254.5" y="891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-8" value="取出合并列表最后一个区间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -107,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0M7ALRThsz2lDNq4J3Vw-38" value="开始&lt;div&gt;输入所有区间&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="618" y="30" width="230" height="70" as="geometry" />
+          <mxGeometry x="622.5" y="30" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
